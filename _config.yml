@@ -7,20 +7,13 @@ favicon: 'assets/images/logo.png'
 baseurl: /blog
 google_analytics: 'UA-207897533-1'
 disqus: 'shahjalalshohag'
-mailchimp-list: '' # will change
+mailchimp-list: 'https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d' # will change
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+
 
 # Plugins
 plugins:

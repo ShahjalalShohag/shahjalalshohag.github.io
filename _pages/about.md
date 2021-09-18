@@ -24,6 +24,7 @@ usemathjax: true
 - **Individual Programming Contest/Olympiad**
     - Ranked within top $100$ in $10$+ international programming contests among (on average) $20000$+ participants
     - Google Code Jam, $2021$     —                                         $759^{th}$, Top $3$ percent
+    - Google Kick Start Round F, $2021$ 							    $36^{th}$, Top $0.4$ percent
     - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
  
