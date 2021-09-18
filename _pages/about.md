@@ -1,0 +1,79 @@
+---
+layout: page
+title: Portfolio
+permalink: /about
+usemathjax: true
+---
+##### Technical Skills
+- **Proficient in:** C/C++, Algorithmic Problem Solving (solved $4200$+ problems on various online platforms)
+- **Worked with:** Python(Expert), Java(intermediate), Git, MySQL, Linux, HTML, CSS, LATEX
+
+##### Education
+- **Shahjalal University of Science and Technology**, Sylhet, Bangladesh —           $Feb/2017$ - $Oct/2021$ <br>
+  Bachelor of Science in Computer Science and Engineering
+ 
+##### Achievements
+- **International Collegiate Programming Contest ([ICPC-ID](https://icpc.global/ICPCID/CDZWDIBEYHP$4$))**                  
+    - ACM ICPC Dhaka Regional, $2020$   —                                                                      $4^{th}$, among $100$+ teams
+    - ACM ICPC Dhaka Regional Online Preliminary, $2020$   —                                     $1^{st}$ Runner-up, among $1300$+ teams
+    - ICPC Asia-West Continent Final Contest, $2019$    —                                                          $28^{th}$, Top $50$ percent
+    - ACM ICPC Dhaka Regional, $2019$                 —                                                                 $5^{th}$, among $180$+ teams
+    - ACM ICPC Dhaka Regional Online Preliminary, $2019$    —                                   $2^{nd}$ Runner-up, among $1700$+ teams
+- **National Level Programming Contest**
+    - Ranked within top $10$ in $8$+ national level programming contests
+- **Individual Programming Contest/Olympiad**
+    - Ranked within top $100$ in $10$+ international programming contests among (on average) $20000$+ participants
+    - Google Code Jam, $2021$     —                                         $759^{th}$, Top $3$ percent
+    - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
+    - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
+ 
+##### Problem-solving Activities
+- Codeforces ([YouKn$0$wWho](https://codeforces.com/profile/YouKn$0$wWho)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
+- CodeChef ([sjshohag](https://www.codechef.com/users/sjshohag)), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
+- Total problems solved: [$4200$+](https://github.com/ShahjalalShohag/ProblemSolvingStats)
+ 
+##### Problem-setting Experience
+- A total of [$55$+](https://github.com/ShahjalalShohag/Problem-Setting) problems on various online judges.
+- **International Mathematical Olympiad(IMO)**, $2021$: the first and only shortlisted problem from Bangladesh.
+- **Codeforces**: [Codeforces Round #$735$ (Div. $2$)](https://codeforces.com/contest/$1554$)
+- **CodeChef**: [July Cook-Off $2020$](https://www.codechef.com/COOK$120$A), [October Cook-Off $2020$](https://www.codechef.com/COOK$123$)
+ 
+##### Technical Projects
+- **The Bookaholics** <br>
+     A web app where users can keep their collection of books and borrow books from others with a book review system. Built with PHP Laravel framework, MySQL, HTML, CSS.
+- **[Tally Note](https://github.com/ShahjalalShohag/WebProject)** <br>
+     A Point of Sale(POS) system with key features of sales reporting, inventory management, customer management, employee reporting and management. Built with PHP, MySQL, HTML, CSS.
+- **[Manimations](https://github.com/ShahjalalShohag/Manimations)** <br>
+     Created fun animations using python.
+ 
+##### Research
+- **Undergrad Thesis** <br>
+     [A Novel Algorithm to Maximize Core Resilience of Networks under Random Edge and Node Deletions](https://github.com/ShahjalalShohag/Undergrad-Thesis).
+ 
+##### Managerial Experience
+- Founder, [Bangladesh CP Server](https://discord.gg/hDSMZATsrM), the biggest discord community server of Competitive Programming enthusiasts from Bangladesh.
+
+##### Interviews
+- [CodeChef](https://blog.codechef.com/$2020$/$08$/$29$/in-conversation-with-codechef-problem-setter-shahjalal-shohag/)
+
+##### Profile Links
+- [GitHub](https://github.com/ShahjalalShohag)
+- [CodeForces](https://codeforces.com/profile/YouKn$0$wWho)
+- [CodeChef](https://www.codechef.com/users/sjshohag)
+- [AtCoder](https://atcoder.jp/users/YouKn$0$wWho)
+- [StopStalk](https://www.stopstalk.com/user/profile/shahjalalshohag)
+- [Rosalind](http://rosalind.info/users/YouKn$0$wWho/)
+- [HackerRank](https://www.hackerrank.com/shahjalalshohag$1$)
+- [LeetCode](https://leetcode.com/YouKn$0$wWho/)
+- [VJudge](https://vjudge.net/user/sjshohag)
+- [LightOJ](https://lightoj.com/user/youkn$0$wwho)
+- [Toph](https://toph.co/u/YouKnowWho)
+- [Kattis](https://open.kattis.com/users/shahjalal-shohag)
+
+##### Social Links
+- [Facebook](https://www.facebook.com/you.know.who.this.guy.is)
+- [Instagram](https://www.instagram.com/shahjalalshohag/)
+- [LinkedIn](https://www.linkedin.com/in/shahjalal-shohag-$394332156$/)
+- [Discord](https://pastebin.ubuntu.com/p/JBC$9$fcvMjF/)
+- [Spotify](https://open.spotify.com/user/s$1$rkr$12$perappspc$1$m$9$divj$8$y?si=LwtS$33$eBTyCl$08$TU$34$HT$8$A&utm_source=copy-link&dl_branch=$1$)
+- [Kubool](https://gdpd.xyz/youkn$0$wwho?fbclid=IwAR$1$coT$4$bOzpr-c_z$9$aOXP$1$dGYrjLdRmu$83$Gg$2$NKsa-P$9$dU$8$paXMQSKlZKjI)
