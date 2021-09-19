@@ -14,6 +14,10 @@ If you want to hire me then check out my  <a href="{{ site.baseurl }}/about">por
 Also, don't forget to <a href = "https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d">subscribe</a> if you wanna get notifications for new posts.
 </p>
 
+<!-- Badge Code - Do Not Change The Code -->
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99a78fa0e98f3f0a77a7d4532355119d|5|page|1|rgb(80, 234, 191);|rgb(4, 4, 4);|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- Badge Code End Here -->
+
 </div>
 
 <!-- <div class="col-md-4">
