@@ -13,7 +13,7 @@ usemathjax: true
   Bachelor of Science in Computer Science and Engineering
  
 ##### Achievements
-- **International Collegiate Programming Contest ([ICPC-ID](https://icpc.global/ICPCID/CDZWDIBEYHP$4$))**                  
+- **International Collegiate Programming Contest ([ICPC-ID](https://icpc.global/ICPCID/CDZWDIBEYHP4))**                  
     - ACM ICPC Dhaka Regional, $2020$   —                                                                      $4^{th}$, among $100$+ teams
     - ACM ICPC Dhaka Regional Online Preliminary, $2020$   —                                     $1^{st}$ Runner-up, among $1300$+ teams
     - ICPC Asia-West Continent Final Contest, $2019$    —                                                          $28^{th}$, Top $50$ percent
@@ -24,20 +24,20 @@ usemathjax: true
 - **Individual Programming Contest/Olympiad**
     - Ranked within top $100$ in $10$+ international programming contests among (on average) $20000$+ participants
     - Google Code Jam, $2021$     —                                         $759^{th}$, Top $3$ percent
-    - Google Kick Start Round F, $2021$ 							    $36^{th}$, Top $0.4$ percent
+    - Google Kick Start Round F, $2021$ 			—				    $36^{th}$, Top $0.4$ percent
     - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
  
 ##### Problem-solving Activities
-- Codeforces ([YouKn$0$wWho](https://codeforces.com/profile/YouKn$0$wWho)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
-- CodeChef ([sjshohag](https://www.codechef.com/users/sjshohag)), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
+- Codeforces ([<a style="color:#FF8C00;">YouKn$0$wWho</a>](https://codeforces.com/profile/YouKn0wWho)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
+- CodeChef ([<a style="color:#FF3333;">sjshohag</a>](https://www.codechef.com/users/sjshohag)), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
 - Total problems solved: [$4200$+](https://github.com/ShahjalalShohag/ProblemSolvingStats)
  
 ##### Problem-setting Experience
 - A total of [$55$+](https://github.com/ShahjalalShohag/Problem-Setting) problems on various online judges.
 - **International Mathematical Olympiad(IMO)**, $2021$: the first and only shortlisted problem from Bangladesh.
-- **Codeforces**: [Codeforces Round #$735$ (Div. $2$)](https://codeforces.com/contest/$1554$)
-- **CodeChef**: [July Cook-Off $2020$](https://www.codechef.com/COOK$120$A), [October Cook-Off $2020$](https://www.codechef.com/COOK$123$)
+- **Codeforces**: [Codeforces Round #$735$ (Div. $2$)](https://codeforces.com/contest/1554)
+- **CodeChef**: [July Cook-Off $2020$](https://www.codechef.com/COOK120A), [October Cook-Off $2020$](https://www.codechef.com/COOK123)
  
 ##### Technical Projects
 - **The Bookaholics** <br>
@@ -59,22 +59,22 @@ usemathjax: true
 
 ##### Profile Links
 - [GitHub](https://github.com/ShahjalalShohag)
-- [CodeForces](https://codeforces.com/profile/YouKn$0$wWho)
+- [CodeForces](https://codeforces.com/profile/YouKn0wWho)
 - [CodeChef](https://www.codechef.com/users/sjshohag)
-- [AtCoder](https://atcoder.jp/users/YouKn$0$wWho)
+- [AtCoder](https://atcoder.jp/users/YouKn0wWho)
 - [StopStalk](https://www.stopstalk.com/user/profile/shahjalalshohag)
-- [Rosalind](http://rosalind.info/users/YouKn$0$wWho/)
-- [HackerRank](https://www.hackerrank.com/shahjalalshohag$1$)
-- [LeetCode](https://leetcode.com/YouKn$0$wWho/)
+- [Rosalind](http://rosalind.info/users/YouKn0wWho/)
+- [HackerRank](https://www.hackerrank.com/shahjalalshohag1)
+- [LeetCode](https://leetcode.com/YouKn0wWho/)
 - [VJudge](https://vjudge.net/user/sjshohag)
-- [LightOJ](https://lightoj.com/user/youkn$0$wwho)
+- [LightOJ](https://lightoj.com/user/youkn0wwho)
 - [Toph](https://toph.co/u/YouKnowWho)
 - [Kattis](https://open.kattis.com/users/shahjalal-shohag)
 
 ##### Social Links
 - [Facebook](https://www.facebook.com/you.know.who.this.guy.is)
 - [Instagram](https://www.instagram.com/shahjalalshohag/)
-- [LinkedIn](https://www.linkedin.com/in/shahjalal-shohag-$394332156$/)
-- [Discord](https://pastebin.ubuntu.com/p/JBC$9$fcvMjF/)
-- [Spotify](https://open.spotify.com/user/s$1$rkr$12$perappspc$1$m$9$divj$8$y?si=LwtS$33$eBTyCl$08$TU$34$HT$8$A&utm_source=copy-link&dl_branch=$1$)
-- [Kubool](https://gdpd.xyz/youkn$0$wwho?fbclid=IwAR$1$coT$4$bOzpr-c_z$9$aOXP$1$dGYrjLdRmu$83$Gg$2$NKsa-P$9$dU$8$paXMQSKlZKjI)
+- [LinkedIn](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
+- [Discord](https://pastebin.ubuntu.com/p/JBC9fcvMjF/)
+- [Spotify](https://open.spotify.com/user/s1rkr12perappspc1m9divj8y?si=LwtS33eBTyCl08TU34HT8A&utm_source=copy-link&dl_branch=1)
+- [Kubool](https://gdpd.xyz/youkn0wwho?fbclid=IwAR1coT4bOzpr-c_z9aOXP$1$dGYrjLdRmu83Gg2NKsa-P9dU8paXMQSKlZKjI)
