@@ -3,10 +3,17 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+    html {
+        font-size: 18px;
+    }
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -399,7 +406,6 @@ blockquote {
     .featured-box-img-cover {
         height: 359px;
     }
-
     .alertbar {
         position: relative !Important;
         margin-bottom: 20px;
@@ -407,53 +413,42 @@ blockquote {
         box-shadow: none !Important;
         padding-right: 14px !Important;
     }
-
     #comments {
         margin-right: 15px;
     }
-
     .jumbotron.fortags {
         margin-bottom: 0 !Important;
     }
-
     .alertbar form {
         margin-top: 20px;
     }
-
     .alertbar span,
     .alertbar form {
         display: block;
     }
-
     .alertbar input[type="submit"] {
         border-radius: 3px !Important;
     }
-
     .alertbar input[type="email"] {
         margin-right: 0px !Important;
         display: block;
         border-right: 1px solid #ddd !Important;
         margin-bottom: 10px;
     }
-
     .jumbotron {
         margin-bottom: 0;
         border-radius: 0;
     }
-
     .listfeaturedtag .card {
         height: auto;
     }
-
     .listfeaturedtag .wrapfooter {
         position: relative;
         margin-top: 30px;
     }
-
     .listfeaturedtag .card-block {
         padding: 20px;
     }
-
     .footer {
         margin-top: 0px;
         margin-bottom: 0px;
@@ -777,12 +772,10 @@ iframe {
         background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
-
     .jumbotron.fortags .col-md-4 {
         background: rgba(0, 0, 0, 0.75);
         color: #fff;
     }
-
     .jumbotron.fortags .row {
         margin: 0;
     }
@@ -829,7 +822,6 @@ iframe {
         -ms-flex-order: 1;
         order: 1;
     }
-
     .flex-first {
         -webkit-box-ordinal-group: 0;
         -webkit-order: 1;
@@ -884,7 +876,9 @@ iframe {
     opacity: 1;
 }
 
+
 /** Lazy img **/
+
 .lazyimg {
     display: block;
     border: 0 none;
