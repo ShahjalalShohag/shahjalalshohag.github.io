@@ -11,6 +11,7 @@ permalink: /home
 
 If you want to hire me then check out my  <a href="{{ site.baseurl }}/about">portfolio </a> and feel free to check out my <a href="{{ site.baseurl }}/index.html">blogs </a> if you have time.
 
+Also, don't forget to [subscribe](https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d) if you wanna get notifications for new posts.
 </p>
 
 
