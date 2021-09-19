@@ -78,3 +78,4 @@ usemathjax: true
 - [Discord](https://pastebin.ubuntu.com/p/JBC9fcvMjF/)
 - [Spotify](https://open.spotify.com/user/s1rkr12perappspc1m9divj8y?si=LwtS33eBTyCl08TU34HT8A&utm_source=copy-link&dl_branch=1)
 - [Kubool](https://gdpd.xyz/youkn0wwho?fbclid=IwAR1coT4bOzpr-c_z9aOXP$1$dGYrjLdRmu83Gg2NKsa-P9dU8paXMQSKlZKjI)
+- [Linktree](https://linktr.ee/youkn0wwho)
