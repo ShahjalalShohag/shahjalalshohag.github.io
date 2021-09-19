@@ -2,6 +2,7 @@
 layout: post
 title: "The Ultimate Topic List(with Tutorials, Problems, and Templates)"
 tags: [CP, monstrous]
+featured: true
 usemathjax: true
 ---
 This post took $4$ years to make. And this is the most significant thing that I have ever shared in my whole life.
