@@ -29,8 +29,8 @@ usemathjax: true
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
  
 ##### Problem-solving Activities
-- Codeforces ([<a style="color:#FF8C00;">YouKn$0$wWho</a>](https://codeforces.com/profile/YouKn0wWho)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
-- CodeChef ([<a style="color:#FF3333;">sjshohag</a>](https://www.codechef.com/users/sjshohag)), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
+- Codeforces (<a href = "https://codeforces.com/profile/YouKn0wWho" style="color:#FF8C00;">YouKn$0$wWho</a>)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
+- CodeChef (<a href = "https://www.codechef.com/users/sjshohag" style="color:#FF3333;">sjshohag</a>), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
 - Total problems solved: [$4200$+](https://github.com/ShahjalalShohag/ProblemSolvingStats)
  
 ##### Problem-setting Experience
