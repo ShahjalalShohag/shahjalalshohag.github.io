@@ -150,6 +150,13 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
             <td></td>
             <td>3</td>
         </tr>
+        <tr> <td>11</td>
+            <td>Polynomial Structure</td>
+            <td><a href="https://cp-algorithms.com/algebra/polynomial.html"> 1 </a></td>
+            <td></td>
+            <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Math/Polynomial.cpp"> code </a></td>
+            <td>3</td>
+        </tr>
         <tr>
             <td>12</td>
             <td>Polynomial Factorization of (x^n - 1)</td>
@@ -3798,4 +3805,16 @@ You can comment the topic names that you think are missing right now and I am pr
 #### Conclusion
 The whole purpose of this project is to help you with this astounding journey of you trying to be better, trying to achieve the best of what you can imagine. Hope that my efforts won't go in vain. I am waiting to see you at the top of the building that you made by the bricks of your expectations. I am waiting to see you smile and to be happy. Don't forget to enjoy the journey and have fun while riding the boat. 
 
-Best wishes, my friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart"></a>. .
+Best wishes, my friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart"></a>.
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fblog%2Ftopic-list%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="lkTutS5r"></script>
+
+<div class="fb-save" data-uri="https://shahjalalshohag.github.io/blog/topic-list/" data-size="large"></div>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="kJMkICev"></script>
+
+<div class="fb-comments" data-href="https://shahjalalshohag.github.io/blog/topic-list/" data-width="" data-numposts="5"></div>
