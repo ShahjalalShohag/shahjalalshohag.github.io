@@ -59,7 +59,6 @@ usemathjax: true
 
 ##### Profile Links
 - [GitHub](https://github.com/ShahjalalShohag)
-- [Medium](https://medium.com/@shahjalalshohag2014)
 - [CodeForces](https://codeforces.com/profile/YouKn0wWho)
 - [CodeChef](https://www.codechef.com/users/sjshohag)
 - [AtCoder](https://atcoder.jp/users/YouKn0wWho)
@@ -71,6 +70,7 @@ usemathjax: true
 - [LightOJ](https://lightoj.com/user/youkn0wwho)
 - [Toph](https://toph.co/u/YouKnowWho)
 - [Kattis](https://open.kattis.com/users/shahjalal-shohag)
+- [Medium](https://medium.com/@shahjalalshohag2014)
 
 ##### Social Links
 - [Facebook](https://www.facebook.com/you.know.who.this.guy.is)
