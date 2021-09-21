@@ -59,6 +59,7 @@ usemathjax: true
 
 ##### Profile Links
 - [GitHub](https://github.com/ShahjalalShohag)
+- [Medium](https://medium.com/@shahjalalshohag2014)
 - [CodeForces](https://codeforces.com/profile/YouKn0wWho)
 - [CodeChef](https://www.codechef.com/users/sjshohag)
 - [AtCoder](https://atcoder.jp/users/YouKn0wWho)
