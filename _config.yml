@@ -4,7 +4,7 @@ title: "Inception"
 description: "A Personal Blog by Shahjalal Shohag"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
+baseurl: ""
 google_analytics: 'UA-207897533-1'
 disqus: 'shahjalalshohag'
 mailchimp-list: 'https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d' # will change
