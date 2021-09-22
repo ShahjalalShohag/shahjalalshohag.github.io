@@ -4,6 +4,7 @@ title: "Inception"
 description: "A Personal Blog by Shahjalal Shohag"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: "https://shahjalalshohag.github.io"
 baseurl: "/"
 google_analytics: 'UA-207897533-1'
 disqus: 'shahjalalshohag'
