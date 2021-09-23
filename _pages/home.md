@@ -15,7 +15,7 @@ Also, don't forget to <a href = "https://gmail.us5.list-manage.com/subscribe?u=3
 </p>
 
 <!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99a78fa0e98f3f0a77a7d4532355119d|5|page|1|rgb(80, 234, 191);|rgb(4, 4, 4);|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99a78fa0e98f3f0a77a7d4532355119d|5|page|1|rgb(80, 234, 191);|rgb(4, 4, 4);|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script> -->
 <!-- Badge Code End Here -->
 
 </div>
