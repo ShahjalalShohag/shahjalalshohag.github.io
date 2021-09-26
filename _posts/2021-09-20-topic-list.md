@@ -22,7 +22,12 @@ Added few problems for each topic. But you may notice that some of the topics do
 
 I have attached my template for each topic. You may not call it a template because some of them don't support the generalized use of the topic. But you can use them easily if you understand the topic and solve problems using that template.
 
-Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows: $1$ - Beginner, $2$ - Intermediate, and $3$ - Advanced.
+Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows: 
+- $1$ &mdash; If your rating is $1600 - 1899$
+- $2$ &mdash; If your rating is $1900 - 2399$
+- $3$ &mdash; If your rating is $2400+$. 
+  
+If you are a beginner then just learn basic topics and solve problems.
 
 #### Topic List
 
@@ -3588,6 +3593,14 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 </tr>
 <tr>
 <td>427</td>
+<td>Grundy Number</td>
+<td><a href="http://e-maxx.ru/algo/sprague_grundy"> 1 </a><a href="https://codeforces.com/blog/entry/66040"> 2 </a></td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>428</td>
 <td>Green Hackenbush on Trees and Graphs</td>
 <td></td>
 <td><a href="https://www.spoj.com/PT07/problems/PT07A/"> 1 </a><a href="https://www.codechef.com/AMR16MOS/problems/AMR16J"> 2 </a></td>
@@ -3595,7 +3608,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>428</td>
+<td>429</td>
 <td>Blue Red HackenBush</td>
 <td><a href="https://discuss.codechef.com/t/gerald08-editorial/5137/2"> 1 </a></td>
 <td><a href="https://www.codechef.com/problems/GERALD08"> 1 </a></td>
@@ -3603,7 +3616,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>429</td>
+<td>430</td>
 <td>Games on Arbitrary Graphs</td>
 <td><a href="https://cp-algorithms.com/game_theory/games_on_graphs.html"> 1 </a></td>
 <td></td>
@@ -3611,7 +3624,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>430</td>
+<td>431</td>
 <td>Matching Game On A Graph</td>
 <td><a href="https://discuss.codechef.com/t/hamilg-editorial/11310"> 1 </a></td>
 <td><a href="https://www.codechef.com/problems/HAMILG"> 1 </a></td>
@@ -3619,7 +3632,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>431</td>
+<td>432</td>
 <td>Nimber</td>
 <td><a href="https://judge.yosupo.jp/problem/nim_product_64"> 1 </a></td>
 <td></td>
@@ -3643,7 +3656,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <th style="width:10%">Difficulty</th>
 </tr>
 <tr>
-<td>432</td>
+<td>433</td>
 <td>Bigint</td>
 <td></td>
 <td></td>
@@ -3651,7 +3664,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>433</td>
+<td>434</td>
 <td>Two Pointers</td>
 <td><a href="https://codeforces.com/edu/course/2/lesson/9"> 1 </a></td>
 <td></td>
@@ -3659,7 +3672,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>434</td>
+<td>435</td>
 <td>Binary Search</td>
 <td><a href="https://codeforces.com/edu/course/2/lesson/6"> 1 </a></td>
 <td></td>
@@ -3667,7 +3680,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>435</td>
+<td>436</td>
 <td>Fraction Binary Search</td>
 <td></td>
 <td><a href="https://codeforces.com/gym/102354/submission/69260720"> 1 </a></td>
@@ -3675,7 +3688,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>436</td>
+<td>437</td>
 <td>Ternary Search</td>
 <td><a href="https://cp-algorithms.com/num_methods/ternary_search.html"> 1 </a></td>
 <td></td>
@@ -3683,7 +3696,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>437</td>
+<td>438</td>
 <td>Parallel Binary Search</td>
 <td><a href="https://codeforces.com/blog/entry/45578"> 1 </a></td>
 <td><a href="https://www.spoj.com/problems/METEORS/"> 1 </a></td>
@@ -3691,7 +3704,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>438</td>
+<td>439</td>
 <td>Josephus Problem</td>
 <td><a href="https://cp-algorithms.com/others/josephus_problem.html"> 1 </a></td>
 <td></td>
@@ -3699,7 +3712,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>439</td>
+<td>440</td>
 <td>Permutation with no Arithmetic Progression</td>
 <td><a href="https://leetcode.com/problems/beautiful-array/solution/"> 1 </a></td>
 <td><a href="https://leetcode.com/problems/beautiful-array/"> 1 </a></td>
@@ -3707,7 +3720,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>440</td>
+<td>441</td>
 <td>Balanced Brackets</td>
 <td><a href="https://cp-algorithms.com/combinatorics/bracket_sequences.html"> 1 </a></td>
 <td></td>
@@ -3715,7 +3728,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>441</td>
+<td>442</td>
 <td>Knight Moves in Infinity Grid</td>
 <td></td>
 <td></td>
@@ -3723,7 +3736,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>442</td>
+<td>443</td>
 <td>Bishop Placement</td>
 <td><a href="https://cp-algorithms.com/combinatorics/bishops-on-chessboard.html"> 1 </a></td>
 <td></td>
@@ -3731,7 +3744,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>443</td>
+<td>444</td>
 <td>Gray Code</td>
 <td><a href="https://cp-algorithms.com/algebra/gray-code.html"> 1 </a></td>
 <td><a href="https://cp-algorithms.com/algebra/gray-code.html#toc-tgt-3"> 1 </a></td>
@@ -3739,7 +3752,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>444</td>
+<td>445</td>
 <td>MEX of all Subarrays</td>
 <td></td>
 <td><a href="https://codeforces.com/contest/1436/problem/E"> 1 </a></td>
@@ -3747,7 +3760,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>445</td>
+<td>446</td>
 <td>Dates</td>
 <td></td>
 <td></td>
@@ -3755,7 +3768,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>446</td>
+<td>447</td>
 <td>Schreier–Sims Algorithm</td>
 <td><a href="https://codeforces.com/blog/entry/21335?locale=ru#comment-260437"> 1 </a></td>
 <td><a href="http://opencup.ru/files/ocg/gp5/problems1-e.pdf"> 1 </a></td>
@@ -3763,7 +3776,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>447</td>
+<td>448</td>
 <td>Expression Parsing</td>
 <td><a href="https://cp-algorithms.com/string/expression_parsing.html"> 1 </a></td>
 <td></td>
@@ -3771,7 +3784,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>1</td>
 </tr>
 <tr>
-<td>448</td>
+<td>449</td>
 <td>Randomized Algorithms</td>
 <td><a href="https://codeforces.com/blog/entry/71097"> 1 </a></td>
 <td></td>
@@ -3779,7 +3792,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>2</td>
 </tr>
 <tr>
-<td>449</td>
+<td>450</td>
 <td>K-th Root of a Permutation</td>
 <td><a href="https://www.hackerrank.com/contests/infinitum14/challenges/sasha-and-swaps/editorial"> 1 </a></td>
 <td><a href="https://www.hackerrank.com/contests/infinitum14/challenges/sasha-and-swaps/problem"> 1 </a></td>
@@ -3787,7 +3800,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>450</td>
+<td>451</td>
 <td>Matroid Intersection</td>
 <td><a href="https://codeforces.com/blog/entry/69287"> 1 </a><a href="https://github.com/AnikSarker/ACM-Library/tree/master/Matroid"> 2 </a><a href="https://www.sciencedirect.com/science/article/abs/pii/0196677481900328"> 3 </a><a href="https://en.wikipedia.org/wiki/Matroid_partitioning"> 4 </a><a href="https://www.jstor.org/stable/3689437"> 5 </a></td>
 <td><a href="https://codeforces.com/gym/102156/problem/D"> 1 </a></td>
@@ -3795,7 +3808,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>451</td>
+<td>452</td>
 <td>SMAWK Algorithm</td>
 <td><a href="https://en.wikipedia.org/wiki/SMAWK_algorithm"> 1 </a></td>
 <td></td>
@@ -3803,7 +3816,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 <td>3</td>
 </tr>
 <tr>
-<td>452</td>
+<td>453</td>
 <td>Lindstrom–Gessel–Viennot lemma</td>
 <td><a href="https://en.wikipedia.org/wiki/Lindstr%C3%B6m%E2%80%93Gessel%E2%80%93Viennot_lemma"> 1 </a></td>
 <td><a href="https://codeforces.com/problemset/problem/348/D"> 1 </a></td>
@@ -3813,6 +3826,7 @@ Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$
 </table>
 </body>
 </details>
+
 
 
 <details> 
