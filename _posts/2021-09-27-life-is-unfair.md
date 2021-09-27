@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Life Really Fair?"
+title: "Life is Unfair?"
 tags: [Life]
 featured: true
 usemathjax: true
