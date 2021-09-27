@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "The Fools Garden"
-tags: [Poems]
+tags: [Poem, Writing]
 featured: true
 usemathjax: true
 ---
-**The Fools Garden**
-
 The air that I had felt <br>
 The green that I had seen <br>
 Reminded me of someone <br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life is Unfair"
-tags: [Life]
+tags: [Life, Writing]
 featured: true
 usemathjax: true
 ---
