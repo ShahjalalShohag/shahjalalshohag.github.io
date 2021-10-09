@@ -3531,7 +3531,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>421</td>
 <td>Onion Decomposition</td>
 <td><a href="https://codeforces.com/blog/entry/759299"> 1 </a></td>
-<td></td>
+<td><a href="https://codeforces.com/contest/1599/problem/D">1</a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Geometry/Onion%20Decomposition.cpp"> code </a></td>
 <td>3</td>
 </tr>
