@@ -2379,7 +2379,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>283</td>
 <td>Link Cut Cactus</td>
 <td><a href="https://blog.csdn.net/VFleaKing/article/details/80748052"> 1 </a></td>
-<td></td>
+<td><a href = "https://codeforces.com/contest/1599/problem/I">1</a></td>
 <td></td>
 <td>3</td>
 </tr>
