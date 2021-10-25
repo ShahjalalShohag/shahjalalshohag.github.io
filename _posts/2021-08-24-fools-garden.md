@@ -2,7 +2,6 @@
 layout: post
 title: "The Fools Garden"
 tags: [Poem, Writing]
-featured: true
 usemathjax: true
 ---
 The air that I had felt <br>

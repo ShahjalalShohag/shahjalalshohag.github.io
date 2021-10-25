@@ -2,7 +2,6 @@
 layout: post
 title: "Life is Weird"
 tags: [Life, Writing]
-featured: true
 usemathjax: true
 ---
 Life is weird.
