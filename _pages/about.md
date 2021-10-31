@@ -5,7 +5,7 @@ permalink: /about
 usemathjax: true
 ---
 ##### Technical Skills
-- **Proficient in:** C/C++, Algorithmic Problem Solving (solved $4200$+ problems on various online platforms)
+- **Proficient in:** C/C++, Algorithmic Problem Solving (solved [$4300$+](https://github.com/ShahjalalShohag/ProblemSolvingStats) problems on various online platforms)
 - **Worked with:** Python(Expert), Java(intermediate), Git, MySQL, Linux, HTML, CSS, LATEX
 
 ##### Education
@@ -22,21 +22,24 @@ usemathjax: true
 - **National Level Programming Contest**
     - Ranked within top $10$ in $8$+ national level programming contests
 - **Individual Programming Contest/Olympiad**
-    - Ranked within top $100$ in $10$+ international programming contests among (on average) $20000$+ participants
+    - **Number 1 [contributor](https://codeforces.com/top-contributed) in the world** on Codeforces(recorded on Oct 31, 2021).
+    - Ranked within top $100$ in [$10$+](https://codeforces.com/contests/with/YouKn0wWho) international programming contests among (on average) $20000$+ participants
     - Google Code Jam, $2021$     —                                         $759^{th}$, Top $3$ percent
     - Google Kick Start Round F, $2021$ 			—				    $36^{th}$, Top $0.4$ percent
     - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
+    - **1200+ stars** on my [Code Library](https://github.com/ShahjalalShohag/code-library).
+    - **Most upvoted**(4300+) Codeforces blog of all time: [The Ultimate Topic List for Competitive Programming](https://codeforces.com/blog/entry/95106).
  
 ##### Problem-solving Activities
 - Codeforces (<a href = "https://codeforces.com/profile/YouKn0wWho" style="color:#FF8C00;">YouKn$0$wWho</a>)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
 - CodeChef (<a href = "https://www.codechef.com/users/sjshohag" style="color:#FF3333;">sjshohag</a>), Highest Rating: $2526$      —                  Red Coder, Top $0$.$1$ percent
-- Total problems solved: [$4200$+](https://github.com/ShahjalalShohag/ProblemSolvingStats)
+- Total problems solved: [$4300$+](https://github.com/ShahjalalShohag/ProblemSolvingStats)
  
-##### Problem-setting Experience
-- A total of [$55$+](https://github.com/ShahjalalShohag/Problem-Setting) problems on various online judges.
+##### Problem-setting Activities
+- A total of [$60$+](https://github.com/ShahjalalShohag/Problem-Setting) problems on various online judges.
 - **International Mathematical Olympiad(IMO)**, $2021$: the first and only shortlisted problem from Bangladesh.
-- **Codeforces**: [Codeforces Round #$735$ (Div. $2$)](https://codeforces.com/contest/1554)
+- **Codeforces**: [Codeforces Round #$752$ (Div. $1$)](https://codeforces.com/contest/1603), [Codeforces Round #$752$ (Div. $2$)](https://codeforces.com/contest/1604), [Codeforces Round #$735$ (Div. $2$)](https://codeforces.com/contest/1554)
 - **CodeChef**: [July Cook-Off $2020$](https://www.codechef.com/COOK120A), [October Cook-Off $2020$](https://www.codechef.com/COOK123)
  
 ##### Technical Projects
