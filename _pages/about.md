@@ -21,15 +21,16 @@ usemathjax: true
     - ACM ICPC Dhaka Regional Online Preliminary, $2019$    —                                   $2^{nd}$ Runner-up, among $1700$+ teams
 - **National Level Programming Contest**
     - Ranked within top $10$ in $8$+ national level programming contests
-- **Individual Programming Contest/Olympiad**
-    - **Number 1 [contributor](https://codeforces.com/top-contributed) in the world** on Codeforces(recorded on Oct 31, 2021).
+- **Individual Programming Contest/Olympiad/Contributions**
     - Ranked within top $100$ in [$10$+](https://codeforces.com/contests/with/YouKn0wWho) international programming contests among (on average) $20000$+ participants
     - Google Code Jam, $2021$     —                                         $759^{th}$, Top $3$ percent
+    - Facebook Hacker Cup, 2021								    $732^{nd}$, Top $2$ percent
     - Google Kick Start Round F, $2021$ 			—				    $36^{th}$, Top $0.4$ percent
     - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
-    - **1200+ stars** on my [Code Library](https://github.com/ShahjalalShohag/code-library).
-    - **Most upvoted**(4300+) Codeforces blog of all time: [The Ultimate Topic List for Competitive Programming](https://codeforces.com/blog/entry/95106).
+    - **Number 1 [contributor](https://codeforces.com/top-contributed) in the world** on Codeforces((as of Nov 2021, indicates how much I helped the community).
+    - 1200+ stars on my [Code Library](https://github.com/ShahjalalShohag/code-library). This library contains codes for all DS, Algorithms and CP related topics.
+    - Most upvoted Codeforces blog of all time: [The Ultimate Topic List for Competitive Programming](https://codeforces.com/blog/entry/95106).
  
 ##### Problem-solving Activities
 - Codeforces (<a href = "https://codeforces.com/profile/YouKn0wWho" style="color:#FF8C00;">YouKn$0$wWho</a>)), Highest Rating: $2325$ —              International Master, Top $0$.$23$ percent
