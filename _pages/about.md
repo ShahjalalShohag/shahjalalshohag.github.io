@@ -28,8 +28,8 @@ usemathjax: true
     - Google Kick Start Round F, $2021$ 			—				    $36^{th}$, Top $0.4$ percent
     - National ICT Day Contest, $2018$        —                                                                Champion, among $300$+ contestants
     - Dhaka Regional Math Olympiad, $2015$       —                                $2^{nd}$ Runner-up, among $500$+ contestants
-    - **Number 1 [contributor](https://codeforces.com/top-contributed) in the world** on Codeforces((as of Nov 2021, indicates how much I helped the community).
-    - 1200+ stars on my [Code Library](https://github.com/ShahjalalShohag/code-library). This library contains codes for all DS, Algorithms and CP related topics.
+    - **Number 1 [contributor](https://codeforces.com/top-contributed) in the world** on Codeforces(as of Nov 2021, indicates how much I helped the community).
+    - 1200+ stars on my [Code Library](https://github.com/ShahjalalShohag/code-library). This library contains codes for **all** Data Structures, Algorithms and CP related topics.
     - Most upvoted Codeforces blog of all time: [The Ultimate Topic List for Competitive Programming](https://codeforces.com/blog/entry/95106).
  
 ##### Problem-solving Activities
