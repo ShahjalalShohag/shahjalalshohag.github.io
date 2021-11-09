@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Donate
-permalink: /donate
+title: Buy Me A Coffee
+permalink: /thanks
 ---
 
-If you like what I do for the community or helped you somehow, then you can donate me via bKash or Rocket. 
+If you like what I do for the community or helped you somehow, then you can buy me a coffee via bKash or Rocket. 
 
 - bKash: 01996546509 (Personal)
 - Rocket: 01943165226 (Personal)
