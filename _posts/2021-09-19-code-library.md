@@ -2,6 +2,7 @@
 layout: post
 title: "Code Library"
 tags: [CP]
+featured: true
 usemathjax: true
 ---
 Hey everyone, I am sharing my personal code library where I compiled **almost all** the important templates that you will need in CP (saying almost just for courtesy). Most of the codes are originally written by me and some of them are collected from others but modified in a cleaner way. 
