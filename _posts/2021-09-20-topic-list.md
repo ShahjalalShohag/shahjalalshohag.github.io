@@ -53,7 +53,7 @@ If you are a beginner then just learn basic topics and solve problems.
                 </tr>
                 <tr>
                     <td>Basic Topics</td>
-                    <td><a href="https://www.codechef.com/ioi/basics"> 1 </a> <a href="https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/ "> 2 </a> <a href="https://www.hackerearth.com/getstarted-competitive-programming/"> 3 </a>                        <a href="https://github.com/the-hyp0cr1t3/CC/tree/master/Beginner%20Topics"> 4 </a> </td>
+                    <td><a href="https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/ "> 1 </a> <a href="https://github.com/the-hyp0cr1t3/CC">2</a> <a href="https://github.com/the-hyp0cr1t3/CC/tree/master/Beginner%20Topics"> 3 </a> </td>
                 </tr>
             </table>
 </body>
@@ -75,7 +75,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>1</td>
 <td>Matrix Exponentiation</td>
 <td><a href="http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html"> 1 </a></td>
-<td><a href="https://codeforces.com/contest/993/problem/E"> 1 </a></td>
+<td><a href="https://codeforces.com/blog/entry/8544"> 1 </a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Math/Matrix%20Exponentiation.cpp"> code </a></td>
 <td>1</td>
 </tr>
