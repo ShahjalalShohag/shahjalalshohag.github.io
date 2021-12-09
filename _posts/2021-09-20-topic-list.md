@@ -33,13 +33,36 @@ If you are a beginner then just learn basic topics and solve problems.
 
 <head>
     <style>
-        table,
+        table {
+            border: 1px solid black;
+            /* border-collapse: collapse; */
+            border-spacing: 0px;
+        }
+        table tr td, th {
+            border-right: 1px solid rgba(0, 0, 0, 0.8);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+            padding: 6px;
+            /* font-size: 17px; */
+        }
+        table tr td:nth-child(4) {
+            padding-left: 30px;
+        }
+        table tr td:nth-child(3) {
+            padding-left: 30px;
+        }
+        table tr td:nth-child(n+5) {
+            text-align: center;
+        }
+        table tr:hover {
+            background-color: rgb(248, 248, 248);
+        }
+           /* table,
         th,
         td {
             border: 1px solid black;
             border-collapse: collapse;
-        }
-    </style>
+        } */
+        </style>
 </head>
 
 <details>
