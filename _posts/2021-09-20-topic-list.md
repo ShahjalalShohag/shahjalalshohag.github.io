@@ -1017,7 +1017,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <tr>
 <td>114</td>
 <td>Intersection of Arithmetic Progressions</td>
-<td><a href=""https://mathoverflow.net/questions/128382/intersection-of-two-arithmetic-progressions""> 1 </a></td>
+<td><a href="https://mathoverflow.net/questions/128382/intersection-of-two-arithmetic-progressions"> 1 </a></td>
 <td></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Number%20Theory/Intersection%20of%20Arithmetic%20Progressions.cpp"> code </a></td>
 <td>1</td>
