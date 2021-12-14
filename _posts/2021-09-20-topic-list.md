@@ -62,6 +62,9 @@ If you are a beginner then just learn basic topics and solve problems.
             border: 1px solid black;
             border-collapse: collapse;
         } */
+        th, td {
+            target="_blank";
+        }
         </style>
 </head>
 
