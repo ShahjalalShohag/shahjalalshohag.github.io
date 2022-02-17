@@ -3,6 +3,7 @@ layout: post
 title: "Happiness: ICPC World Finals 2021"
 tags: [Writing, CP]
 usemathjax: true
+featured: true
 ---
 
 Hold me when I share this, because, guys, I am super excited to share that our team has been selected to participate in ICPC World Finals 2021.
