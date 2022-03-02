@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take the Half Back - Appreciation from YouKn0wWho Academy"
+title: "Take the Half Back: Appreciation from YouKn0wWho Academy"
 tags: [Writing, Academy, CP]
 usemathjax: true
 featured: true
