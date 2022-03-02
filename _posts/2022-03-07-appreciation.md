@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Take The Half Back - Appreciation from YouKn0wWho Academy"
+title: "Take the Half Back - Appreciation from YouKn0wWho Academy"
 tags: [Writing, Academy, CP]
 usemathjax: true
+featured: true
 ---
 
 In case you don't know, I have an academy where I teach people how to be good at Competitive Programming. 
