@@ -29,9 +29,10 @@ From now on, you will receive an appreciation from YouKn0wWho for being a dedica
 ![appreciation](/assets/images/appreciation.png)
 
 
+### Criteria
 The following criteria must be fulfilled to get an appreciation (if you don't fulfill them then why tf you took the course in the first place!):
 
-### Phase 1
+#### Phase 1
 - Solved at least 250 problems in total (out of 295 problems).
 - Solved at least 60 problems from class 1 (out of 70 problems).
 - Solved at least 60 problems from class 2 (out of 70 problems).
@@ -43,7 +44,7 @@ The following criteria must be fulfilled to get an appreciation (if you don't fu
 - Solved at least 80% of the problems from each of the 2 short contests.
 - Participated in at least 10 online programming contests in total on Codeforces, CodeChef, and Atcoder.
 
-### Phase 2
+#### Phase 2
 - Solved at least 200 problems in total (out of 237 problems).
 - Solved at least 20 problems from class 1 (out of 26 problems).
 - Solved at least 20 problems from class 2 (out of 26 problems).
@@ -56,7 +57,7 @@ The following criteria must be fulfilled to get an appreciation (if you don't fu
 - Solved at least 80% of the problems from each of the 4 short contests.
 - Participated in at least 30 online programming contests in total on Codeforces, CodeChef, and Atcoder.
 
-### Phase 3
+#### Phase 3
 - Solved all problems from all classes (around ~330 problems).
 - Solved all problems from all short and grand contests.
 - Participated in at least 50 online programming contests in total on Codeforces, CodeChef, and Atcoder.
