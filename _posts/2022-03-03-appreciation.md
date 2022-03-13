@@ -14,8 +14,8 @@ But there is a good news!
 
 ### Appreciation
 From now on, you will receive an appreciation from YouKn0wWho for being a dedicated and awesome programmer (if you really are). You will get the following incentives:
-- **Take back the 50% money of what you have paid for the course.**
-- 1h of 1:1 video meeting with me.
+- **Get 50% discount in your next course.**
+- 30 minutes of 1:1 video meeting with me.
 - An appreciation letter and an official shoutout from my Facebook page.
 - A grand treat from me if you can somehow meet up with me in real life!
 - ~~Certificates (who cares about them lmao)~~
@@ -25,9 +25,7 @@ From now on, you will receive an appreciation from YouKn0wWho for being a dedica
 - Anyone can receive the rewards if they take the course anytime (live or not). 
 - You should complete the criteria within the first 4 months of taking the course and demand your well deserved appreciation!
 
-
 ![appreciation](/assets/images/appreciation.png)
-
 
 ### Criteria
 The following criteria must be fulfilled to get an appreciation (if you don't fulfill them then why tf you took the course in the first place!):
