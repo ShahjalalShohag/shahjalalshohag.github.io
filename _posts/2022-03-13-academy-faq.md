@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Promo Codes: YouKn0wWho Academy"
+title: "FAQ: YouKn0wWho Academy"
 tags: [Academy, CP]
 usemathjax: true
 featured: true
@@ -12,7 +12,7 @@ Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjala
 If you are a school or college student, then **you will get HUGE discounts** (check the website). Otherwise, if you are an old academy member, then **you can get up to 50% discounts on your next course by solving more problems in your current course!**
 
 ### Do you have Promo Codes?
-Yes. Because you deserve some discounts!
+Yes. Because you deserve some discounts ^u^!
 
 You can get promo codes from academy members and use them to **get a 200 BDT discount**! Note that the person who gives you the promo code will also receive 200 BDT!
 
