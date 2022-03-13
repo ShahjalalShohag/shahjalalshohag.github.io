@@ -3,7 +3,6 @@ layout: post
 title: "FAQ: YouKn0wWho Academy"
 tags: [Academy, CP]
 usemathjax: true
-featured: true
 ---
 
 Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjalalshohag.com/)

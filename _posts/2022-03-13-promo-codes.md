@@ -3,7 +3,6 @@ layout: post
 title: "Promo Codes: How to Become a Billionaire!"
 tags: [Academy, CP]
 usemathjax: true
-featured: true
 ---
 
 Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjalalshohag.com/)
