@@ -14,7 +14,7 @@ So basically
 - If you took any course, then you will get a promo code. And when someone uses your promo code to enroll in THAT course, then the guy will get a 200 BDT discount and you will also receive 200 BDT.
 - If you are someone who is thinking of enrolling in a new course, then you can get a promo code from someone who already took THAT course.
 - You can give promo codes to multiple people.
-- Anyone can use at most one promo code to enroll in some course.
+- Anyone can use at most one promo code for each course.
 
 Some quick maths:
 - If you refer 1 guy, you will get 200 BDT.
@@ -28,4 +28,4 @@ On a serious note, just to be more transparent, normally courses give promo code
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="my6ulbt3"></script>
 
-<div class="fb-comments" data-href="https://shahjalalshohag.github.io/nirvana/" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://shahjalalshohag.github.io/promo-codes/" data-width="" data-numposts="5"></div>
