@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take Your Money Back: Appreciation from YouKn0wWho Academy"
+title: "Take Your Money Back: Academy Gold Pass from YouKn0wWho Academy"
 tags: [Writing, Academy, CP]
 usemathjax: true
 featured: true
@@ -12,13 +12,15 @@ Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjala
 
 But there is a good news!
 
-### Appreciation
+### Academy Gold Pass
 From now on, you will receive an appreciation from YouKn0wWho for being a dedicated and awesome programmer (if you really are). You will get the following incentives:
 - **Get 50% discount in your next course.**
 - 30 minutes of 1:1 video meeting with me.
 - An appreciation letter and an official shoutout from my Facebook page.
 - A grand treat from me if you can somehow meet up with me in real life!
 - ~~Certificates (who cares about them lmao)~~
+
+I would like to call this appreciation the Academy Gold Pass.
 
 ### Notes:
 - You can receive appreciations for each phase! 
