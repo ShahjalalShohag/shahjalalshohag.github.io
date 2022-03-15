@@ -20,8 +20,6 @@ Some quick maths:
 - If you refer 10 people, then you will get 2000 BDT.
 - If you refer 5 million people, then you will become a billionaire!
 
-On a serious note, just to be more transparent, normally courses give promo codes to hook more people into their courses. But in this current system that I am using right now, you guys are getting rewards.
-
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fnirvana%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <div id="fb-root"></div>
