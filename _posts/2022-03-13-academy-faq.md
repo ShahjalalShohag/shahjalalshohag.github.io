@@ -21,7 +21,7 @@ Learn more about it here: [Promo Codes: How to Become a Billionaire!](https://bl
 Most of the courses are recordings of live classes. But here is what you will get
 - Extensive written resources on each class topic. Check this [demo](https://academy.shahjalalshohag.com/p/a-complete-guideline-to-competitive-programming-phase-1#course_details) to understand what it looks like.
 - Contests with curated hand-picked problems (20+ problems per contest on average).
-- ~~Editorials and Codes of the problems. Some of them have video editorials.~~
+- Editorials and Codes of the problems. Some of them have video editorials.
 - Lifetime Discord server access to get help from me and other members who took this course.
 - Video Recordings of the live class.
 - Video Chapters for each video so that you can navigate the timestamps easily.
