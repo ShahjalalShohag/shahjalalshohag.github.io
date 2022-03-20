@@ -3888,6 +3888,31 @@ If you are a beginner then just learn basic topics and solve problems.
 </body>
 </details>
 
+<details>
+ <summary>Category: Recently Added</summary>
+<body>
+<h3> Category: Recently Added</h3>
+<table style="width:100%">
+<tr style="background-color:#E0E0E0">
+<th style="width:5%">#</th>
+<th style="width:45%">Title</th>
+<th style="width:15%">Resources</th>
+<th style="width:15%">Problems</th>
+<th style="width:10%">Template</th>
+<th style="width:10%">Difficulty</th>
+</tr>
+<tr>
+<td>454</td>
+<td>XOR Segment Tree</td>
+<td></td>
+<td><a href="https://codeforces.com/contest/1654/problem/F"> 1 </a></td>
+<td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Data%20Structures/XOR%20Segment%20Tree.cpp"> code </a></td>
+<td>3</td>
+</tr>
+</table>
+</body>
+</details>
+
 #### Contribute
 You can comment the topic names that you think are missing right now and I am pretty sure some links are broken, do point those out if you find some.
 
