@@ -453,7 +453,7 @@ Enjoy!
 184. The Legendre symbol is a completely multiplicative function of its top argument:  
      $\displaystyle \displaystyle \left(\frac{ab}{p} \right) = \left(\frac{a}{p} \right) \left(\frac{b}{p} \right)$
     
-185. The Fibonacci numbers $\displaystyle 1,1,2,3,5,8,13,21,34,55,...$\displaystyle are defined by the recurrence $\displaystyle F_1 = F_2 = 1,F_{n+1} = F_n + F_{n-1}.$ If $\displaystyle p$ is a prime number then    
+185. The Fibonacci numbers $\displaystyle 1,1,2,3,5,8,13,21,34,55,...$ are defined by the recurrence $\displaystyle F_1 = F_2 = 1,F_{n+1} = F_n + F_{n-1}.$ If $\displaystyle p$ is a prime number then    
      $\displaystyle \displaystyle F_{p-\left(\frac{p}{5}\right)} \equiv 0 {\pmod{p}}, \;\;F_p \equiv \left(\frac{p}{5}\right) {\pmod{p}}.$
 
      For example,  
@@ -466,7 +466,7 @@ Enjoy!
      
      $\displaystyle \displaystyle\left(\frac{11}{5}\right)=\;\;1,\;\; F_{10}=55,\;\;F_{11}=89,$
     
-186. $\displaystyle \displaystyle \left(\frac{p}{5}\right)={\text{infinite concatenation of the sequence}}\left(1,-1,-1,1,0\right) {\text{from }}p \geq 1$
+186. Continuing from previous point, $\displaystyle \displaystyle \left(\frac{p}{5}\right)={\text{infinite concatenation of the sequence}}\left(1,-1,-1,1,0\right) {\text{from }}p \geq 1$.
 187. If $n$ = $\displaystyle \displaystyle k^2$ is perfect square then $\displaystyle \left(\frac{n}{p}\right)=1$ for every odd prime except $\displaystyle \left(\frac{n}{k}\right)=0$ if k is an odd prime.  
 
      ### Miscellaneous
