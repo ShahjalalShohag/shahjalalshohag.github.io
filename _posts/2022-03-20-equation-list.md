@@ -5,7 +5,7 @@ tags: [CP, Monstrous]
 usemathjax: true
 featured: true
 ---
-Hi, I am super excited to be back with another ultimate list. This time it is **a collection of some useful equations in Competitive Programming**.
+Hi, I am super excited to be back with another list. This time it is **a collection of some useful equations in Competitive Programming**.
 
 ### Motivation
 Do you find it bad if you couldn’t solve a problem just because you didn’t know about a certain equation? 
