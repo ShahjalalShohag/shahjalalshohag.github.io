@@ -189,7 +189,7 @@ Enjoy!
 73. $\displaystyle \sum_{i = 0}^n{i\cdot i!=(n + 1)! - 1}$.
 74. $\displaystyle a^k - b^k = (a - b) \cdot (a^{k - 1}b^0 + a^{k - 2}b^1 + ... + a^0b^{k - 1})$
 75. $\displaystyle \min(a + b, c) = a + \min(b, c - a)$
-76. $\|a - b\| + \|b - c\| + \|c - a\| = 2 (\max{a, b, c} - \min{a, b, c})$
+76. $\|a - b\| + \|b - c\| + \|c - a\| = 2 (\max (a, b, c) - \min (a, b, c))$
 77. $\displaystyle a \cdot b \leq c \rightarrow a \leq \left \lfloor \dfrac{c}{b} \right \rfloor$ is correct
 78. $\displaystyle a \cdot b < c \rightarrow a <  \left \lfloor \dfrac{c}{b} \right \rfloor$ is incorrect
 79. $\displaystyle a \cdot b \geq c \rightarrow a \geq  \left \lfloor \dfrac{c}{b} \right \rfloor$  is correct
