@@ -5,7 +5,7 @@ tags: [CP, Monstrous]
 usemathjax: true
 featured: true
 ---
-Hi, I am super excited to be back with another ultimate list. This time it is a collection of all important equations in Competitive Programming.
+Hi, I am super excited to be back with another ultimate list. This time it is **a collection of all important equations in Competitive Programming**.
 
 ### Motivation
 Do you find it bad if you couldn’t solve a problem just because you didn’t know about a certain equation? 
@@ -17,17 +17,18 @@ Do you think that all the equations that are important in CP are just cluttered 
 Well, then you are in the right place! I am here to solve all of the aforementioned problems. I believe you should not waste your precious time searching the internet for important equations. You should solve more problems. I am here to undertake the nasty task of collecting things. 
 
 ### Payment
-Everything comes with a cost. You need to do something for me. That is you need to upvote my Codeforces blog of this list! The link to the blog: TBA
+Everything comes with a cost. You need to do something for me. That is you need to upvote my Codeforces blog of this list! The link to the blog: [link](https://codeforces.com/blog/entry/101232)
 
 ### Acknowledgement
 Thanks to the following guys as they converted all the equations to Latex: Mahbubul Alam Sabuj(CF: newb_ie), Irfan Ullah Munna (CF: Shanto65), S.M.A Nahian (CF: Nahian9696), Ashiqur Rahman Naeem (CF: nayeem2021), Md. Imran Hossain(CF: peripatetic), Jamilur Rahman(CF: Jamil314) and Mahmood (CF: mah_mood).
 
 ### About the List
-I didn't add any explanations for any of the equations because its not feasible to explain too many equations. So make sure to understand them by yourself or use google or just comment under this blog. The community will help.
+I didn't add any explanations for any of the equations because it's not feasible to explain too many equations. So make sure to understand them by yourself or use google or just comment under this blog. The community will help.
 
-The list also contains some small tricks as a bonus. As the list is long, it must have some errors. Feel free to point those out.
+The list also contains some small tricks as a bonus. As the list is long, it must have some errors. Feel free to point those out. Also, comment the missing equations that you think should be added to the list.
 
 Enjoy!
+
 
 ### The Equation List
 
