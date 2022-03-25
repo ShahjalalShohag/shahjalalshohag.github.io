@@ -121,13 +121,13 @@ Enjoy!
     If we continuously do this $n$ times then the polynomial of the first column of the $n$-th row will be
     
     $$\displaystyle p(n)=\sum_{k=0}^{n}{n \choose k} \cdot x(k)$$
-43. If $\displaystyle p(n)=\sum_{k=0}^{n}{n \choose k} \cdot Q(k)$,
+43. If $\displaystyle P(n)=\sum_{k=0}^{n}{n \choose k} \cdot Q(k)$,
     then, 
     
     $$
     Q(n)=\sum_{k=0}^{n}(-1)^{n-k}{n \choose k} \cdot P(k) 
     $$
-44. If $\displaystyle p(n)=\sum_{k=0}^{n}(-1)^{k}{n \choose k} \cdot Q(k)$ ,
+44. If $\displaystyle P(n)=\sum_{k=0}^{n}(-1)^{k}{n \choose k} \cdot Q(k)$ ,
     then, 
     
     $$
@@ -189,7 +189,7 @@ Enjoy!
 73. $\displaystyle \sum_{i = 0}^n{i\cdot i!=(n + 1)! - 1}$.
 74. $\displaystyle a^k - b^k = (a - b) \cdot (a^{k - 1}b^0 + a^{k - 2}b^1 + ... + a^0b^{k - 1})$
 75. $\displaystyle \min(a + b, c) = a + \min(b, c - a)$
-76. $|a - b| + |b - c| + |c - a| = 2 (\max\{a, b, c\} - \min\{a, b, c\})$
+76. $\|a - b\| + \|b - c\| + \|c - a\| = 2 (\max\{a, b, c\} - \min\{a, b, c\})$
 77. $\displaystyle a \cdot b \leq c \rightarrow a \leq \left \lfloor \dfrac{c}{b} \right \rfloor$ is correct
 78. $\displaystyle a \cdot b < c \rightarrow a <  \left \lfloor \dfrac{c}{b} \right \rfloor$ is incorrect
 79. $\displaystyle a \cdot b \geq c \rightarrow a \geq  \left \lfloor \dfrac{c}{b} \right \rfloor$  is correct
@@ -486,4 +486,4 @@ Enjoy!
      holds for every $\displaystyle \displaystyle k$ in $\displaystyle 1 \leq k \leq n$.
 
 ### Outro
-A good life is just a series of good days. So make sure to have a good day, friend!
+A good life is just a series of good days. So make sure to have a good day, friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart"></a>.
