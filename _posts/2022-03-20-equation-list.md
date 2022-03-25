@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate Equation List"
+title: "A List of Useful Equations in Competitive Programming"
 tags: [CP, Monstrous]
 usemathjax: true
 featured: true
