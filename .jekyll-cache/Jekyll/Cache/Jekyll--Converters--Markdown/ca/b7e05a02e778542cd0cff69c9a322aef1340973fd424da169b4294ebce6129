@@ -1,0 +1,638 @@
+I"��<h3 id="combinatorics">Combinatorics</h3>
+
+<h4 id="general">General</h4>
+<ol>
+  <li>$\sum \limits_{0\leq k \leq n} {n-k \choose k} = Fib_{n+1}$</li>
+  <li>${n \choose k}={n \choose n-k}$</li>
+  <li>${n \choose k}+{n \choose k+1}={n+1 \choose k+1}$</li>
+  <li>$k{n \choose k}=n{n-1 \choose k-1}$</li>
+  <li>${n \choose k}=\frac{n}{k}{n-1 \choose k-1}$</li>
+  <li>$\sum \limits_{i=0}^n{n \choose i}=2^n$</li>
+  <li>$\sum \limits_{i\geq 0}{n \choose 2i}=2^{n-1}$</li>
+  <li>$\sum \limits_{i\geq 0}{n \choose 2i+1}=2^{n-1}$</li>
+  <li>$\sum \limits_{i= 0}^k \left( -1 \right) ^i{n \choose i}=\left( -1 \right) ^k{n-1 \choose k}$</li>
+  <li>$\sum \limits_{i= 0}^k{n+i \choose i}={n+k+1 \choose k}$</li>
+  <li>$\sum \limits_{i= 0}^k{n+i \choose n}={n+k+1 \choose k}$</li>
+  <li>$\sum \limits_{i= 0}^k{i \choose n}={k+1 \choose n+1}$</li>
+  <li>$\displaystyle1{n \choose 1}+2{n \choose 2}+3{n \choose 3}+…+n{n \choose n}=n2^{n-1}$</li>
+  <li>$\displaystyle1^2{n \choose 1}+2^2{n \choose 2}+3^2{n \choose 3}+…+n^2{n \choose n}=(n+n^2)2^{n-2}$</li>
+  <li><strong>Vandermonde’s Identify:</strong> $\sum \limits_{k=0}^r{m \choose k}{n \choose r-k}={m+n \choose r}$</li>
+  <li><strong>Hockey-Stick Identify:</strong> $\ n,r \in N, n &gt; r, \sum \limits_{i=r}^n{i \choose r}={n+1 \choose r+1}$</li>
+  <li>$\sum \limits_{i=0}^k{k \choose i}^2={2k \choose k}$</li>
+  <li>$\sum \limits_{k=0}^n{n \choose k}{n \choose n-k}={2n \choose n}$</li>
+  <li>$\sum \limits_{k=q}^n{n \choose k}{k \choose q}=2^{n-q}{n \choose q}$</li>
+  <li>$\sum \limits_{i=0}^n3^i{n \choose i}=4^n$</li>
+  <li>$\sum \limits_{i=0}^nk^i{n \choose i}=(k+1)^n$</li>
+  <li>$\sum \limits_{i=0}^n{2n \choose i}=2^{2n-1}+\frac{1}{2}{2n \choose n}$</li>
+  <li>$\sum \limits_{i=1}^n{n \choose i}{n-1 \choose i-1}={2n-1 \choose n-1}$</li>
+  <li>$\sum \limits_{i=0}^n{2n \choose i}^2=\frac{1}{2} \left( {4n \choose 2n}+{2n \choose n}^2 \right)$</li>
+  <li><strong>Highest Power of $2$ that divides $^{2n}C_n$:</strong>
+Let $x$ be the number of $1$s in the binary representation. Then the number of odd terms will be $2^x$.Let it form a sequence. The $n$-th value in the sequence (starting from $n$ = 0) gives the highest power of $2$ that divides $^{2n}C_n$.</li>
+  <li><strong>Pascal Triangle</strong>
+    <ol>
+      <li>In a row $p$ where $p$ is a prime number, all the terms in that row except the $1$s are multiples of $p$.</li>
+      <li>Parity: To count odd terms in row $n$, convert $n$ to binary. Let $x$ be the number of $1$s in the binary representation. Then the number of odd terms will be $2^x$.</li>
+      <li>Every entry in row $2^n-1, n\geq 0,$ is odd.</li>
+    </ol>
+  </li>
+  <li>An integer $n\geq 2$ is prime if and only if all the intermediate binomial coefficients ${n \choose 1},{n \choose 2},…, {n \choose n-1}$ are divisible by $n$.</li>
+  <li><strong>Kummer’s Theorem:</strong> For given integers $n\geq m\geq 0$\ and a prime number $p$, the largest power of $p$ dividing ${n \choose m}$  is equal to the number of carries when $m$ is added to $n$-$m$ in base $p$. For implementation take inspiration from lucas theorem.</li>
+  <li>Number of different binary sequences of length $n$ such that no two $0$’s are adjacent=$Fib_{n+1}$</li>
+  <li><strong>Combination with repetition:</strong> Let’s say we choose $k$ elements from an $n$-element set, the order doesn’t matter and each element can be chosen more than once. In that case, the number of different combinations is: ${n+k-1 \choose k}$</li>
+  <li>
+    <p>Number of ways to divide $n$ persons in $\frac{n}{k}$ equal groups i.e. each having size $k$ is</p>
+
+\[\displaystyle \frac{n!}{k!^{\frac{n}{k}} \left( \frac{n}{k} \right) !}= \prod \limits_{n \geq k}^{n-=k}{n-1 \choose k-1}\]
+  </li>
+  <li>The number non-negative solution of the equation: $x_1+x_2+x_3+…+x_k=n \text{ is}{n+k-1 \choose n}$</li>
+  <li>Number of ways to choose $n$ ids from $1$ to b such that every id has distance at least k  $\displaystyle =\left( \frac{b-(n-1)(k-1)}{n} \right)$</li>
+  <li>$\displaystyle \sum \limits_{i=1,3,5,\dots}^{i\leq n} \binom{n}{i} a^{n-i}b^i = \frac{1}{2} ((a+b)^n-(a-b)^n)$</li>
+  <li>$\displaystyle \sum \limits_{i=0}^{n} \dfrac{\binom{k}{i}}{\binom{n}{i}} = \dfrac{\binom{n+1}{n-k+1}}{\binom{n}{k}}$</li>
+  <li>
+    <p><strong>Derangement:</strong> a permutation of the elements of a set, such that no element appears in its original position. Let $d(n)$ be the number of derangements of the identity permutation fo size $n$.</p>
+
+\[d(n)=(n-1) \cdot (d(n-1)+d(n-2)) \, \text{where}\;d(0)=1,d(1)=0\]
+  </li>
+  <li><strong>Involutions:</strong> permutations such that $p^2 =$ identity permutation. $a_0 = a_1 = 1$ and $a_n=a_{n-1} + (n-1)a_{n-2}$ for $n&gt;1$.</li>
+  <li>
+    <p>Let $T(n,k)$ be the number of permutations of size $n$ for which all cycles have length $\leq k$.</p>
+
+    <p>\(T(n, k)=
+    \begin{cases} 
+      n! &amp; ; n \le k\\
+      n \cdot T(n-1, k) - F(n-1, k) \cdot T(n-k-1, k) &amp; ;n &gt; k \\
+   \end{cases}\)<br />
+Here $F(n, k) = n \cdot (n - 1) \cdot … \cdot (n - k + 1)$</p>
+  </li>
+  <li><strong>Lucas Theorem</strong></li>
+  <li>If $p$ is prime, then $\left(\frac{p^{a}}{k}\right) \equiv 0 (\mod\; p)$</li>
+  <li>
+    <p>For non-negative integers $m$ and $n$ and a prime $p$, the following congruence relation holds:</p>
+
+    <p>\(\left(\frac{m}{n}\right) \equiv \prod_{i=0}^{k} \left(\frac{m_{i}}{n_{i}}\right) (mod\; p),\)
+ where,<br />
+ $m=m_{k} p^{k} +m_{k-1} p^{k-1}+…+m_{1} p+m_{0}$,<br />
+ and <br />
+ $n=n_{k}p^{k}+n_{k-1}p^{k-1}+…+n_{1}p+n_{0}$<br />
+ are the base $p$ expansions of $m$ and $n$ respectively. This uses the convention that  $\left(\frac{m}{n}\right)=0$,when $m&lt;n$.</p>
+  </li>
+  <li>
+    <p>$\sum_{i=0}^{n}  {n \choose i } \cdot i^{k}$<br />
+= $\left \{ \begin{matrix} k\cr j \end{matrix} \right \}$<br />
+= $\sum_{i=0}^{n}  {n \choose i } \cdot \sum_{j=0}^{k}{ \left\{ \begin{matrix} k\cr j \end{matrix} \right\} \cdot i^{\underline{j}}}$<br />
+= $\sum_{i=0}^{n} {n \choose i } \cdot \sum_{j=0}^{k} \left\{ \begin{matrix} k\cr j \end{matrix} \right\} \cdot  j! {n \choose i }$<br />
+= $\sum_{i=0}^{n} \frac{n!}{(n-i)!} \cdot \sum_{j=0}^{k} \left\{ \begin{matrix}k\cr j \end{matrix} \right\} \cdot \frac{1}{(i-j)!}$<br />
+= $\sum_{i=0}^{n} \sum_{j=0}^{k} \frac{n!}{(n-i)!} \cdot  \left\{\begin{matrix} k\cr j \end{matrix} \right\} \cdot \frac{1}{(i-j)!}$<br />
+= n!$\sum_{i=0}^{n} \sum_{j=0}^{k} \left\{ \begin{matrix} k\cr j \end{matrix} \right\} \cdot \frac{1}{(n-i)!} \cdot \frac{1}{(i-j)!}$<br />
+= n!$\sum_{i=0}^{n} \sum_{j=0}^{k} \left\{ \begin{matrix} k\cr j \end{matrix} \right\} \cdot { n-j \choose n-i} \cdot \frac{1}{(n-j)!}$<br />
+= n!$\sum_{j=0}^{k} \left\{ \begin{matrix} k\cr j \end{matrix} \right\} \cdot \frac{1}{(n-j)!} \sum_{i=0}^{n} \cdot { n-j \choose n-i}$<br />
+= $\sum_{j=0}^{k} \left\{\begin{matrix} k\cr j \end{matrix} \right\} \cdot n^{\underline{j}} \cdot 2^{n-j}$</p>
+
+    <p>Here $n^{\underline{j}}=P(n,j)=\dfrac{n!}{(n-j)!}$ and $\left\{ \begin{matrix} k\cr j \end{matrix} \right\}$ is stirling number of the second kind.</p>
+
+    <p>So, instead of $O(n)$, now you can calculate the original equation in $O(k^2)$ or even in $O(k \log^2 n)$ using NTT.</p>
+  </li>
+  <li>$\displaystyle \sum \limits_{i=0}^{n-1} {i \choose j} x^i = x^j(1-x)^{-j-1}\left( 1- x^n \sum \limits_{i=0}^j {n \choose i} x^{j-i} (1-x)^i \right)$</li>
+  <li>
+    <p>$x_{0}, x_{1}, x_{2}, x_{3}, … , x_{n}$<br />
+$x_{0} + x_{1}, x_{1} + x_{2}, x_{2}+x_{3}, … x_{n}$<br />
+…<br />
+If we continuously do this $n$ times then the polynomial of the first column of the $n$-th row will be</p>
+
+\[P(n)=\sum_{k=0}^{n}{n \choose k} \cdot x(k)\]
+  </li>
+  <li>
+    <p>If $P(n)=\sum_{k=0}^{n}{n \choose k} \cdot Q(k)$,
+then,</p>
+
+\[Q(n)=\sum_{k=0}^{n}(-1)^{n-k}{n \choose k} \cdot P(k)\]
+  </li>
+  <li>
+    <p>If $P(n)=\sum_{k=0}^{n}(-1)^{k}{n \choose k} \cdot Q(k)$ ,
+then,</p>
+
+\[Q(n)=\sum_{k=0}^{n}(-1)^{k}{n \choose k} \cdot P(k)\]
+
+    <h4 id="catalan-numbers">Catalan Numbers</h4>
+  </li>
+  <li>$C_n=\frac{1}{n+1}{2n \choose n}$</li>
+  <li>$C_0=1,C_1=1\text{ and }C_n=\sum \limits_{k=0}^{n-1}C_k C_{n-1-k}$</li>
+  <li>Number of correct bracket sequence consisting of $n$ opening and $n$ closing brackets.</li>
+  <li>The number of ways to completely parenthesize $n$+$1$ factors.</li>
+  <li>The number of triangulations of a convex polygon with  $n$+$2$ sides (i.e. the number of partitions of polygon into disjoint triangles by using the diagonals).</li>
+  <li>The number of ways to connect the $2n$ points on a circle to form $n$ disjoint i.e. non-intersecting  chords.</li>
+  <li>The number of monotonic lattice paths from point $(0,0)$ to point $(n,n)$ in a square lattice of size $n\times n$, which do not pass above the main diagonal (i.e. connecting $(0,0)$ to $(n,n)$).</li>
+  <li>The number of rooted full binary trees with $n$+$1$ leaves (vertices are not numbered). A rooted binary tree is full if every vertex has either two children or no children.</li>
+  <li>Number of permutations of ${1, …, n}$ that avoid the pattern $123$ (or any of the other patterns of length $3$); that is, the number of permutations with no three-term increasing sub-sequence. For $n = 3$, these permutations are $132,\ 213,\ 231,\ 312$ and $321.$For $n = 4$, they are $1432,\ 2143,\ 2413,\ 2431,\ 3142,\ 3214,\ 3241,\ 3412,\ 3421,\ 4132,\ 4213,\ 4231,\ 4312$ and $4321.$</li>
+  <li>
+    <p><strong>Balanced Parentheses count with prefix:</strong>
+The count of balanced parentheses sequences consisting of $n+k$ pairs of parentheses where the first $k$ symbols are open brackets. Let the number be $C_n^{(k)}$, then</p>
+
+\[\displaystyle C_n^{(k)} = \frac{k+1}{n+k+1} \binom{2n+k}{n}\]
+
+    <h4 id="narayana-numbers">Narayana numbers</h4>
+  </li>
+  <li>$N(n,k)=\frac{1}{n}\left(\frac{n}{k}\right)\left(\frac{n}{k-1}\right)$</li>
+  <li>
+    <p>The number of expressions containing $n$ pairs of parentheses, which are correctly matched and which contain $k$ distinct nestings. For instance, $N(4, 2) = 6$ as with four pairs of parentheses six sequences can be created which each contain two times the sub-pattern ‘()’:
+ $\fbox{ \fbox{()((()))} \;\; \fbox{(())(())} \;\; \fbox{(()(()))} \;\; \fbox{((()()))} \;\; \fbox{((())())} \;\; \fbox{((()))()}}$</p>
+
+    <h4 id="stirling-numbers-of-the-first-kind">Stirling numbers of the first kind</h4>
+  </li>
+  <li>The Stirling numbers of the first kind count permutations according to their number of cycles (counting fixed points as cycles of length one).</li>
+  <li>$S(n,k)$ counts the number of permutations of $n$ elements with $k$ disjoint cycles.</li>
+  <li>$S(n,k)=(n-1) \cdot S(n-1,k)+S(n-1,k-1),$
+\(where,\; S(0,0)=1,S(n,0)=S(0,n)=0\)</li>
+  <li>$\displaystyle\sum_{k=0}^{n}S(n,k) = n!$</li>
+  <li>
+    <p>The unsigned Stirling numbers may also be defined algebraically, as the coefficient of the rising factorial:</p>
+
+\[x^{\bar{n}} = x(x+1)...(x+n-1) = \sum_{k=0}^{n}{ S(n, k) x^k}\]
+  </li>
+  <li>
+    <p>Lets $[n, k]$ be the stirling number of the first kind, then</p>
+
+\[\bigl[\!\begin{smallmatrix} n \\ n\ -\ k \end{smallmatrix}\!\bigr] = \sum_{0 \leq i_1 &lt; i_2 &lt; i_k &lt; n}{i_1i_2....i_k.}\]
+
+    <h4 id="stirling-numbers-of-the-second-kind">Stirling numbers of the second kind</h4>
+  </li>
+  <li>Stirling number of the second kind is the number of ways to partition a set of n objects into k non-empty subsets.</li>
+  <li>$S(n,k)=k \cdot S(n-1,k)+S(n-1,k-1)$,
+\(where \; S(0,0)=1,S(n,0)=S(0,n)=0\)</li>
+  <li>$S(n,2)=2^{n-1}-1$</li>
+  <li>$S(n,k) \cdot k!$ = number of ways to color $n$ nodes using colors from $1$ to $k$ such that each color is used at least once.</li>
+  <li>An $r$-associated Stirling number of the second kind is the number of ways to partition a set of $n$ objects into $k$ subsets, with each subset containing at least $r$ elements. It is denoted by $S_r( n , k )$ and obeys the recurrence relation.
+ $\displaystyle S_r(n+1,k) = k S_r(n,k) + \binom{n}{r-1} S_r(n-r+1,k-1)$</li>
+  <li>
+    <p>Denote the n objects to partition by the integers $1, 2, …., n$. Define the reduced Stirling numbers of the second kind, denoted $S^d(n, k)$, to be the number of ways to partition the integers $1, 2, …., n$ into k nonempty subsets such that all elements in each subset have pairwise distance at least d. 
+ That is, for any integers i and j in a given subset, it is required that $|i - j| \geq d$. It has been shown that these numbers satisfy,
+ \(S^d(n, k) = S(n - d + 1, k - d + 1), n \geq k \geq d\)</p>
+
+    <h4 id="bell-number">Bell number</h4>
+  </li>
+  <li>Counts the number of partitions of a set.</li>
+  <li>$B_{n+1}=\displaystyle\sum_{k=0}^{n}\left(\frac{n}{k}\right)*B_{k}$</li>
+  <li>
+    <p>$B_{n}=\displaystyle\sum_{k=0}^{n}S(n,k)$ ,where $S(n,k)$ is stirling number of second kind.</p>
+
+    <h3 id="math">Math</h3>
+    <h4 id="general-1">General</h4>
+  </li>
+  <li>$ab \mod\ ac=a(b \mod\ c)$</li>
+  <li>$\sum_{i = 0}^n{i\cdot i!=(n + 1)! - 1}$.</li>
+  <li>$a^k - b^k = (a - b) \cdot (a^{k - 1}b^0 + a^{k - 2}b^1 + … + a^0b^{k - 1})$</li>
+  <li>$\min(a + b, c) = a + \min(b, c - a)$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$</td>
+          <td>a - b</td>
+          <td>+</td>
+          <td>b - c</td>
+          <td>+</td>
+          <td>c - a</td>
+          <td>= 2 (\max{a, b, c} - \min{a, b, c})$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$a \cdot b \leq c \rightarrow a \leq \left \lfloor \dfrac{c}{b} \right \rfloor$ is correct</li>
+  <li>$a \cdot b &lt; c \rightarrow a &lt;  \left \lfloor \dfrac{c}{b} \right \rfloor$ is incorrect</li>
+  <li>$a \cdot b \geq c \rightarrow a \geq  \left \lfloor \dfrac{c}{b} \right \rfloor$  is correct</li>
+  <li>$a \cdot b &gt; c \rightarrow a &gt;  \left \lfloor \dfrac{c}{b} \right \rfloor$ is correct</li>
+  <li>
+    <p>For positive integer $n$, and arbitrary real numbers $m,x$,</p>
+
+    <p>$\left \lfloor \dfrac{\left \lfloor x/m \right \rfloor}{n} \right \rfloor = \left \lfloor \dfrac{x}{mn} \right \rfloor$</p>
+
+    <p>$\left \lceil \dfrac{\left \lceil x/m \right \rceil}{n} \right \rceil = \left \lceil \dfrac{x}{mn} \right \rceil$</p>
+  </li>
+  <li>
+    <p>Lagrange’s identity:</p>
+
+\[{\displaystyle {\begin{aligned}\left(\sum \limits_{k=1}^{n}a_{k}^{2}\right)\left(\sum \limits_{k=1}^{n}b_{k}^{2}\right)-\left(\sum\limits_{k=1}^{n}a_{k}b_{k}\right)^{2}&amp;=\sum \limits_{i=1}^{n-1}\sum \limits_{j=i+1}^{n}\left(a_{i}b_{j}-a_{j}b_{i}\right)^{2}\\&amp;={\frac {1}{2}}\sum \limits_{i=1}^{n}\sum \limits_{j=1,j\neq i}^{n}(a_{i}b_{j}-a_{j}b_{i})^{2}\end{aligned}}}\]
+  </li>
+  <li>$\sum_{i = 1}^n{ia^i} = \frac{a(n a^{n + 1} - (n + 1) a^n + 1)}{(a - 1)^2}$</li>
+  <li>
+    <p><strong>Vieta’s formulas:</strong><br />
+Any general polynomial of degree $n$</p>
+
+    <p>\(P(x) = a_nx^n + a_{n - 1}x^{n - 1} + ... + a_1x + a_0\)
+(with the coefficients being real or complex numbers and $a_n \neq 0$) is known by the fundamental theorem of algebra to have $n$ (not necessarily distinct) complex roots $r_1, r_2,…, r_n$.</p>
+
+    <p>\(\begin{cases}
+    \text{$r_1 + r_2 + ... + r_{n - 1} + r_n = - \frac{a_{n - 1}}{a_n}$}
+    \\
+    \text{$(r_1r_2 + r_1r_3 + ... + r_1r_n) + (r_2r_3 + r_2r_4 + ... + r_2r_n) + ... + r_{n - 1}r_n = \frac{a_{n - 2}}{a_n}$}
+    \\\vdots\\
+    \text{$r_1r_2...r_n = (-1)^n\frac{a_0}{a_n}.$}
+    \end{cases}\)<br />
+Vieta’s formulas can equivalently be written as</p>
+
+\[\sum_{1 \leq i_1 &lt; i_2 &lt; ...&lt;i_k \leq n} \Bigg(\prod_{j = 1}^k{r_{i_j}}\Bigg) = (-1)^k\frac{a_{n - k}}{a_n},\]
+  </li>
+  <li>
+    <p>We are given n numbers $a_1,a_2,…,a_n$ and our task is to find a value $x$ that minimizes the sum,</p>
+
+    <p>\(|a_1 - x| + |a_2 - x| + ... + |a_n - x|\)
+optimal $x=$ median of the array.<br />
+if $n$ is even $x =$ $[$left median,right median$]$ i.e. every number in this range will work.</p>
+
+    <p>For minimizing</p>
+
+    <p>\((a_1 - x)^2 + (a_2 - x)^2 + ... + (a_n - x)^2\)
+optimal $x = \dfrac{(a_1 + a_2 + … + a_n)}{ n}$</p>
+  </li>
+  <li>Given an array a of n non-negative integers. The task is to find the sum of the product of elements of all the possible subsets. It is equal to the product of $(a_i + 1)$ for all $a_i$</li>
+  <li>
+    <p><strong>Pentagonal number theorem:</strong>
+In mathematics, the pentagonal number theorem states that</p>
+
+    <p>\(\prod_{n = 1}^{\infty}\left ( 1 - x^n \right ) = \prod_{k = -\infty}^{\infty} \left ( -1 \right )^kx^{\frac{k(3k - 1)}{2}} = 1 + \prod_{k = 1}^{\infty}\left (-1\right )^k\left ( x^{\frac{k(3k + 1)}{2}} + x^{\frac{k(3k - 1)}{2}}\right ).\)
+In other words,</p>
+
+    <p>\((1 - x)(1 - x ^ 2)(1 - x^3)\cdots =1 - x - x^2 + x^5 + x^7 - x^{12} - x^{15} + x^{22} + x^{26} - \cdots.\)
+The exponents $1, 2, 5, 7, 12,\cdots$ on the right hand side are given by the formula $g_k = \frac{k(3k - 1)}{2}$ for $k = 1, -1, 2, -2, 3, \cdots$ and are called (generalized) pentagonal numbers.</p>
+
+    <p>It is useful to find the <a href="https://en.wikipedia.org/wiki/Partition_(number_theory)">partition number</a> in $O(n \sqrt{n})$</p>
+
+    <h4 id="fibonacci-number">Fibonacci Number</h4>
+  </li>
+  <li>$F_0=0, F_1=1$ and $F_n=F_{n-1}+F_{n-2}$</li>
+  <li>$F_n=\sum\limits_{k=0}^{\lfloor\frac{n-1}{2}\rfloor}\binom{n-k-1}{k}$</li>
+  <li>$F_n=\frac{1}{\sqrt{5}}(\frac{1+\sqrt{5}}{2})^n-\frac{1}{\sqrt{5}}(\frac{1-\sqrt{5}}{2})^n$</li>
+  <li>$\sum\limits_{i=1}^{n}F_i=F_{n+2}-1$</li>
+  <li>$\sum\limits_{i=0}^{n-1}F_{2i+1}=F_{2n}$</li>
+  <li>$\sum\limits_{i=1}^{n}F_{2i}=F_{2n+1}-1$</li>
+  <li>$\sum\limits_{i=1}^{n}F_{i}^{2}=F_nF_{n+1}$</li>
+  <li>$F_mF_{n+1}-F_{m-1}F_{n}=(-1)^nF_{m-n}$<br />
+$F_{2n}=F_{n+1}^2-F_{n-1}^2=F_n(F_{n+1}+F_{n-1})$</li>
+  <li>$F_mF_n+F_{m-1}F_{n-1}=F_{m+n-1}$<br />
+$F_mF_{n+1}+F_{m-1}F_{n}=F_{m+n}$</li>
+  <li>A number is Fibonacci if and only if one or both of $(5 \cdot n^2 + 4)$ or $(5 \cdot n^2 - 4)$ is a perfect square</li>
+  <li>Every third number of the sequence is even and more generally, every $k^{th}$ number of the sequence is a multiple of $F_k$</li>
+  <li>$gcd(F_m, F_n)=F_{gcd(m, n)}$</li>
+  <li>Any three consecutive Fibonacci numbers are pairwise coprime, which means that, for every n, $gcd(F_n, F_{n+1})=gcd(F_n, F_{n+2}), gcd(F_{n+1}, F_{n+2})=1$</li>
+  <li>
+    <p>If the members of the Fibonacci sequence are taken $mod$ $n$, the resulting sequence is periodic with period at most $6n$.</p>
+
+    <h4 id="pythagorean-triples">Pythagorean Triples</h4>
+  </li>
+  <li>A Pythagorean triple consists of three positive integers $a, b,$ and $c$, such that $a^{2}+b^{2}=c^{2}$. Such a triple is commonly written $(a, b, c)$</li>
+  <li>Euclid’s formula is a fundamental formula for generating Pythagorean triples given an arbitrary pair of integers m and n with $m &gt;n &gt;0$. The formula states that the integers<br />
+\(a = m^{2}-n^{2}, b = 2mn,  c = m^{2}+n^{2}\)<br />
+form a Pythagorean triple. The triple generated by Euclid’s formula is primitive if and only if m and n are coprime and not both odd. When both m and n are odd, then a, b, and c will be even, and the triple will not be primitive; however, dividing a, b, and c by 2 will yield a primitive triple when m and n  are coprime and both odd.</li>
+  <li>The following will generate all Pythagorean triples uniquely:<br />
+\(a = k\cdot \left( m^{2}-n^{2}\right), b = k\cdot\left(2mn\right),  c = k\cdot \left(m^{2}+n^{2}\right)\)<br />
+where m, n, and k are positive integers with $m &gt; n$, and with m and n coprime and not both odd.</li>
+  <li>
+    <p><strong>Theorem:</strong>
+The number of Pythagorean triples
+{a,b,n} with $max{a,b,n} = n$ is given by<br />
+$\dfrac{1}{2}\left( \displaystyle\prod _{ p^{\alpha} || n}\left( 2\alpha +1\right) -1\right)$<br />
+where the product is over all prime divisors p of the form $4k+1$.<br />
+The notation $p^{\alpha} || n$ stands for the highest exponent $\alpha$ for which $p^{\alpha}$ divides $n$<br />
+<strong>Example:</strong>
+For $n = 2\cdot3^{2}\cdot5^{3}\cdot7^{4}\cdot11^{5}\cdot13^{6},$ the number of Pythagorean triples with hypotenuse n is $\dfrac{1}{2}\left( 7.13-1\right) =45$.<br />
+To obtain a formula for the number of Pythagorean triples with hypotenuse less than a specific positive integer N, we may add the numbers corresponding to each $n &lt; N$ given by the Theorem. There is no simple way to compute this as a function of N.</p>
+
+    <h4 id="sum-of-squares-function">Sum of Squares Function</h4>
+  </li>
+  <li>The function is defined as<br />
+$r_{k}\left(n\right) = \left|{\left(a_{1},a_{2},…,a_{k} \right) \in \mathbf{Z^{k}} : n=a_{1}^{2}+a_{2}^{2}+…+a_{k}^{2}}\right|$</li>
+  <li>The number of ways to write a natural number as sum of two squares is given by $r_2(n)$. It is given explicitly by<br />
+    $r_{2}\left(n\right) = 4\left(d_{1}\left(n\right) - d_{3}\left(n\right)\right)$ 
+    where d1(n) is the number of divisors of n which are congruent with 1 modulo 4 and d3(n) is the number of divisors of n which are congruent with 3 modulo 4.  <br /> <br />
+    The prime factorization $n = 2^{g}p_{1}^{f_{1}}p_{2}^{f_{2}}. . .q_{1}^{h_{1}}q_{2}^{h_{2}}. . . ,$  where $p_{i}$ are the prime factors of the form $p_{i} \equiv 1$ (mod 4), and $q_{i}$ are the prime factors of the form $q_{i} \equiv 3$ (mod 4) gives another formula   $r_{2}\left(n\right) = 4\left(f_{1}+1\right)\left(f_{2}+1\right)…,$ if all exponents $h_{1}$,$h_{2}$,… are even. If one or more $h_{i}$ are odd, then $r_{2}\left(n\right) = 0.$</li>
+  <li>
+    <p>The number of ways to represent n as the sum of four squares is eight times the sum of all its divisors which are not divisible by 4, i.e.<br />
+$r_{4}\left( n \right) = 8 \displaystyle\sum <em>{d| n;4 \nmid d}d$  <br />
+$r</em>{8}\left(n\right) = 16 \displaystyle\sum _{d|n} \left(-1\right)^{n+d}d^{3}$</p>
+
+    <h3 id="number-theory">Number Theory</h3>
+    <h4 id="general-2">General</h4>
+  </li>
+  <li>for $i &gt; j$, $\gcd(i, j)$ $ = $ $\gcd(i -j, j)$ $\leq (i -j)$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\sum_{x = 1}^n \left[d</td>
+          <td>x^k\right] = \left \lfloor\dfrac{n}{\prod_{i = 0}{p_i^{\left \lceil \dfrac{e_i}{k}\right \rceil}}}\right \rfloor$, where $d = \prod_{i = 0}{p_i^{e_i}}$. Here, $[a</td>
+          <td>b]$ means $a$ divides $b$ then it is $1$, otherwise it is $0$.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>The number of lattice points on segment $(x_1,y_1)$ to $(x_2,y_2)$ is $\gcd(abs(x_1-x_2),abs(y_1-y_2)) + 1$</li>
+  <li>$(n-1)! \mod  n = n -1$ if n is prime, 2 if $n = 4$, $0$ otherwise.</li>
+  <li>A number has odd number of divisors if it is  perfect square</li>
+  <li>The sum of all divisors of a natural number n is odd if and only if $n=2^r\cdot k^2$ where $r$ is non-negative and $k$ is positive integer.</li>
+  <li>Let $a$ and $b$ be coprime positive integers, and find integers $a{\prime}$ and $b{\prime}$ such that $aa{\prime} \equiv 1 \mod b$ and $bb{\prime} \equiv 1 \mod a$. Then the number of representations of a positive integers (n) as a non negative linear combination of $a$ and $b$ is<br />
+\(\frac{n}{ab}-\Big\{\frac{b{\prime} n}{a}\Big\}-\Big\{\frac{a{\prime} n}{b}\Big\} + 1\)<br />
+Here, ${x}$ denotes the fractional part of $x$.</li>
+  <li>$\displaystyle \sum \limits_{i=1}^{a}\sum \limits_{j=1}^{b}\sum \limits_{k=1}^{c} d(i \cdot j \cdot k) = \sum \limits_{\gcd (i,j)=\gcd (j,k) = \gcd (k,i) =1} \left \lfloor \dfrac{a}{i}\right \rfloor \left \lfloor \dfrac{b}{j}\right \rfloor \left \lfloor \dfrac{c}{k} \right \rfloor$<br />
+    Here, $d(x) =$ number of divisors of $x$.</li>
+  <li>
+    <p><strong>Gauss’s generalization of Wilson’s theorem:</strong>,<br />
+Gauss proved that,<br />
+\(\displaystyle \prod \limits_{k=1 \atop \gcd(k,m)=1}^{m}\!\!k\ \equiv {\begin{cases}-1{\pmod {m}}&amp;{\text{if }}m=4,\;p^{\alpha },\;2p^{\alpha }\\\;\;\,1{\pmod {m}}&amp;{\text{otherwise}}\end{cases}}\)
+where $p$ represents an odd prime and $\alpha$  a positive integer. The values of $m$ for which the product is $-1$ are precisely the ones where there is a primitive root modulo $m$.</p>
+
+    <h4 id="divisor-function">Divisor Function</h4>
+  </li>
+  <li>$\sigma_x(n)=\sum\limits_{d\vert n}^{}d^x$</li>
+  <li>It is multiplicative i.e if $\gcd(a, b)=1\to \sigma_x(ab)=\sigma_x(a)\sigma_x(b)$.</li>
+  <li>
+\[\sigma_x(n)=\prod\limits_{i=1}^{\tau}\frac{p_i^{(a_i+1)x}-1}{p_i^x-1}\]
+  </li>
+  <li><strong>Divisor Summatory Function</strong>
+    <ol>
+      <li>Let $\sigma_0(k)$ be the number of divisors of $k$.</li>
+      <li>$D(x)=\sum\limits_{n\leq{x}}{\sigma_0(n)}$</li>
+      <li>$D(x)=\sum\limits_{k=1}^{x}\lfloor\frac{x}{k}\rfloor=2\sum\limits_{k=1}^{u}\lfloor\frac{x}{k}\rfloor-u^2$, where $u=\sqrt{x}$</li>
+      <li>$D(n)=$Number of increasing arithmetic progressions where $n+1$ is the second or later term. (i.e. The last term, starting term can be any positive integer $\le n$. For example, $D(3)=5$ and there are 5 such arithmetic progressions: $(1, 2, 3, 4); (2, 3, 4); (1, 4); (2, 4); (3, 4).$</li>
+    </ol>
+  </li>
+  <li>Let $\sigma_1(k)$ be the sum of divisors of k. Then, $\sum\limits_{k=1}^{n}\sigma_1(k)=\sum\limits_{k=1}^{n}{k \left\lfloor \frac{n}{k} \right\rfloor}$</li>
+  <li>$\prod\limits_{d\vert n}^{}d={n^{\frac{\sigma_0}{2}}}$ if $n$ is not a perfect square, and $=\sqrt{n} \cdot n^{\frac{\sigma_0-1}{2}}$ if $n $ is a perfect square.
+    <h4 id="eulers-totient-function">Euler’s Totient function</h4>
+  </li>
+  <li>The function is multiplicative.<br />
+  This means that if $\gcd(m, n) = 1$, $\phi(m \cdot n) = \phi(m) \cdot \phi(n)$.</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\phi(n) = n\prod_{p</td>
+          <td>n}(1 - \frac{1}{p} )$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>If p is prime and (k \geq 1), then, 
+  $\phi(p^k) = p^{k - 1}(p - 1) = p^k(1 - \frac{1}{p})$</li>
+  <li>J_k(n)$, the Jordan totient function, is the number of $k$-tuples of positive integers all less than or equal to n that form a coprime $(k + 1)$-tuple together with $n$. It is a generalization of Euler’s totient, $\phi(n) = J_1(n)$.<br />
+\(J_k(n) = n^k\prod_{p|n}(1 - \frac{1}{p^k})\)</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\sum_{d</td>
+          <td>n}J_k(d) = n^k$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\sum_{d</td>
+          <td>n}\phi(d) = n$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\phi(n) = \sum_{d</td>
+          <td>n}\mu(d)\cdot\frac{n}{d} = n\sum_{d</td>
+          <td>n}\frac{\mu(d)}{d}$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\phi(n) = \sum_{d</td>
+          <td>n}d\cdot\mu(\frac{n}{d})$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>${a}\vert{b} \to \varphi(a)\vert{\varphi(b)}$</li>
+  <li>$n\vert{\varphi(a^n - 1)}$ for $a, n &gt; 1$</li>
+  <li>
+    <p>$\varphi(mn)=\varphi(m)\varphi(n)\cdot\frac{d}{\varphi(d)}$ where $d=gcd(m, n)$<br />
+Note the special cases
+\(\varphi(2m)=
+   \begin{cases} 
+     2\varphi(m) &amp; ; if \, m  \, is \, even\\
+     \varphi(m) &amp; ; if \, m \, is \, odd\\
+   \end{cases}\)
+  \(\varphi(n^m)=n^{m-1}\varphi(n)\)</p>
+  </li>
+  <li>$\varphi(lcm(m, n)) \cdot \varphi(gcd(m, n))=\varphi(m) \cdot \varphi(n)$<br />
+  Compare this to the formula $lcm(m, n)\cdot gcd(m,n)=m\cdot n$</li>
+  <li>$\varphi(n)$ is even for $n\geq3$. Moreover, if if $n$ has $r$ distinct odd prime factors, $2^r \vert \varphi(n)$</li>
+  <li>$\sum\limits_{d\vert{n}}^{} \frac{\mu^2(d)}{\varphi(d)}=\frac{n}{\varphi(n)}$</li>
+  <li>$\sum\limits_{1\leq k \leq n, \gcd(k, n)=1}k=\frac{1}{2}n\varphi(n)$ for $n &gt; 1$</li>
+  <li>$\frac{\varphi(n)}{n}=\frac{\varphi(rad(n))}{rad(n)}$ where $rad(n)=$ 
+    $\prod\limits_{p\vert n, p \, prime} p$</li>
+  <li>$\lfloor\frac{n}{\varphi(n)}\rfloor$ is periodic. $1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 3, …$</li>
+  <li>$\phi(m) \geq \log_2{m}$</li>
+  <li>$\phi(\phi(m))\leq\frac{m}{2}$</li>
+  <li>When $x \geq \log_2m$, then 
+\(n^x\mod m=n^{\phi(m) + x\mod \phi(m)}\mod m\)</li>
+  <li>$\sum\limits_{1\leq k\leq n, \gcd(k, n)=1}\gcd(k-1, n)=\varphi(n)d(n)$ where $d(n)$ is number of divisors. Same equation for $\gcd(a \cdot k-1, n)$ where $a$ and $n$ are coprime.</li>
+  <li>For every $n$ there is at least one other integer $m\ne n$ such that $\varphi(m)=\varphi(n).$</li>
+  <li>$\sum\limits_{i=1}^{n} {\varphi(i) \cdot \lfloor\frac{n}{i}\rfloor=\frac{n*(n+1)}{2}}$</li>
+  <li>$\sum\limits_{i=1, i \% 2 \ne 0 }^{n} \varphi(i) \cdot \lfloor\frac{n}{i}\rfloor=\sum\limits_{k\geq 1}[\frac{n}{2^k}]^2$.
+  Note that $[\, ]$ is used here to denote round operator not floor or ceil</li>
+  <li>
+\[\sum\limits_{i=1}^{n}\sum\limits_{j=1}^{n}ij[\gcd(i, j)=1]=\sum\limits_{i=1}^{n}\varphi(i)i^2\]
+  </li>
+  <li>Average of coprimes of $n$ which are less than $n$ is $\dfrac{n}{2}$.
+    <h4 id="mobius-function-and-inversion">Mobius Function and Inversion</h4>
+  </li>
+  <li>For any positive integer $n$, define $\mu(n)$ as the sum of the primitive $n^{th}$ roots of unity. It has values in ${-1, 0, 1}$ depending on the factorization of $n$ into prime factors:
+    <ol>
+      <li>$\mu(n)=1$ if $n$ is a square-free positive integer with an even number of prime factors.</li>
+      <li>$\mu(n)=-1$ if $n$ is a square-free positive integer with an odd number of prime factors.</li>
+      <li>$\mu(n)=0$ if $n$ has a squared prime factor.</li>
+    </ol>
+  </li>
+  <li>It is a multiplicative function.</li>
+  <li>
+\[\sum_{d|n}\mu(d) =
+   \begin{cases} 
+     1 &amp; ; n=1\\
+     0 &amp; ; n &gt; 0
+  \end{cases}\]
+  </li>
+  <li>$\displaystyle \sum\limits_{n=1}^N {\mu}^2(n) = \displaystyle \sum\limits_{n=1}^{\sqrt{N}} \mu(k) \cdot \left \lfloor \dfrac{N}{k^2} \right\rfloor$
+This is also the number of square-free numbers $\le n$</li>
+  <li><strong>Mobius inversion theorem:</strong> The classic version states that if g and f are arithmetic functions satisfying
+    $g(n) = \displaystyle \sum_{d|n}f(d) $ for every integer $n \ge 1$ then $g(n) = \displaystyle \sum_{d|n}\mu(d)g\left(\frac{n}{d}\right)$ for every integer $n \ge 1$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>If $F(n) = \displaystyle \prod_{d</td>
+          <td>n} f(d)$, then $f(n) = \displaystyle \prod_{d</td>
+          <td>n} F\left(\frac{n}{d}\right)^{\mu(d)}$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$\displaystyle \sum_{d|n}\mu(d)\phi(d) = \displaystyle \prod_{j=1}^K (2 - P_j)$
+    where $P_j$  is the primes factorization of $d$</li>
+  <li>
+    <p>If $f(n)$ is multiplicative, $f \not\equiv 0$, then $\displaystyle \sum_{d|n} \mu(d) f(d) = \displaystyle \prod_{i=1} (1 - f(P_i)) \cdot$
+    where $P_i$  are primes of $n$.</p>
+
+    <h4 id="gcd-and-lcm">GCD and LCM</h4>
+  </li>
+  <li>$\gcd(a, 0) = a$</li>
+  <li>$\gcd(a, b) = \gcd(b, a \mod b)$</li>
+  <li>Every common divisor of $a$ and $b$ is a divisor of $\gcd(a,b)$.</li>
+  <li>if $m$ is any integer, then $\gcd(a + m {\cdot} b, b) = \gcd(a, b)$</li>
+  <li>The gcd is a multiplicative function in the following sense: if $a_1$ and $a_2$ are relatively prime, then $\gcd(a_1 \cdot a_2, b) = \gcd(a_1, b) \cdot \gcd(a_2,b )$.</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\gcd(a, b){\cdot} \operatorname{lcm}(a, b) =</td>
+          <td>a{\cdot}b</td>
+          <td>$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$\gcd(a, \operatorname{lcm}(b, c)) = \operatorname{lcm}(\gcd(a, b), \gcd(a, c))$.</li>
+  <li>$\operatorname{lcm}(a, \gcd(b, c)) = \gcd(\operatorname{lcm}(a, b), \operatorname{lcm}(a, c))$.</li>
+  <li>For non-negative integers $a$ and $b$, where $a$ and $b$ are not both zero, $\gcd({n^a} - 1, {n^b} - 1) = n^{\gcd(a,b)} - 1$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\gcd(a, b) = \displaystyle \sum_{k</td>
+          <td>a \, \text{and} \, k</td>
+          <td>b} {\phi(k)}$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$\displaystyle \sum_{i=1}^n [\gcd(i, n) = k] = { \phi{\left(\frac{n}{k}\right)}}$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\displaystyle \sum_{k=1}^n \gcd(k, n) = \displaystyle \sum_{d</td>
+          <td>n} d \cdot {\phi{\left(\frac{n}{d}\right)}}$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\displaystyle \sum_{k=1}^n x^{\gcd(k,n)} = \displaystyle \sum_{d</td>
+          <td>n} x^d \cdot {\phi{\left(\frac{n}{d}\right)}}$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\displaystyle \sum_{k=1}^n \frac{1}{\gcd(k, n)} = \displaystyle \sum_{d</td>
+          <td>n} \frac{1}{d} \cdot {\phi{\left(\frac{n}{d}\right)}} = \frac{1}{n} \displaystyle \sum_{d</td>
+          <td>n} d \cdot \phi(d)$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$\displaystyle \sum_{k=1}^n \frac{k}{\gcd(k, n)} = \frac{n}{2} \cdot \displaystyle \sum_{d</td>
+          <td>n} \frac{1}{d} \cdot {\phi{\left(\frac{n}{d}\right)}} = \frac{n}{2} \cdot \frac{1}{n} \cdot \displaystyle \sum_{d</td>
+          <td>n} d \cdot \phi(d)$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$\displaystyle \sum_{k=1}^n \frac{n}{\gcd(k, n)} = 2 * \displaystyle \sum_{k=1}^n \frac{k}{\gcd(k, n)} - 1$,  for  $n &gt; 1$</li>
+  <li>$\displaystyle \sum_{i=1}^n \sum_{j=1}^n [\gcd(i, j) = 1] = \displaystyle \sum_{d=1}^n \mu(d) \lfloor {\frac{n}{d} \rfloor}^2$</li>
+  <li>$\displaystyle \sum_{i=1}^n \displaystyle\sum_{j=1}^n \gcd(i, j) = \displaystyle \sum_{d=1}^n \phi(d) \lfloor {\frac{n}{d} \rfloor}^2$</li>
+  <li>$\sum_{i=1}^n \sum_{j=1}^n i \cdot j[\gcd(i, j) = 1] = \sum_{i=1}^n \phi(i)i^2$</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>$f(n) = \displaystyle \sum_{i=1}^n \displaystyle \sum_{j=1}^n \operatorname{lcm}(i, j) = \displaystyle \sum_{l=1}^n {\left(\frac{\left( 1 + \lfloor{\frac{n}{l} \rfloor} \right) \left( \lfloor{\frac{n}{l} \rfloor} \right)} {2} \right)}^2 \displaystyle \sum_{d</td>
+          <td>l} \mu(d)ld$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>$\gcd(\operatorname{lcm}(a, b), \operatorname{lcm}(b, c), \operatorname{lcm}(a, c)) = \operatorname{lcm}(\gcd(a, b), \gcd(b, c), \gcd(a, c))$</li>
+  <li>$\gcd(A_L, A_{L+1}, …, A_R) = \gcd(A_L, A_{L+1} - A_L, …, A_R - A_{R-1})$.’</li>
+  <li>Given n, If $SUM = LCM(1,n) + LCM(2,n) + … + LCM(n,n)$<br />
+then SUM = $\dfrac{n}{2}( \displaystyle\sum _{ d| n}\left( \phi \left( d\right) \times d\right) +1$
+    <h4 id="legendre-symbol">Legendre Symbol</h4>
+  </li>
+  <li>
+    <p>Let $p$ be an odd prime number. An integer $a$ is a quadratic residue modulo $p$ if it is congruent to a perfect square modulo $p$ and is a quadratic nonresidue modulo $p$ otherwise. The Legendre symbol is a function of $a$ and $p$ defined as
+\(\displaystyle \left( \frac{a}{p} \right)=
+   {\begin{cases}
+   \,1&amp;{\text{if }}a\ {\text{is a quadatric residue modulo }}p\ {\text{and }}\ a\ \not\equiv\ 0 {\pmod{p}},\\\;\;\,-1&amp;{\text{if }}a\ {\text{is a non-quadaratic residue modulo }}p,\\\;\;\,0&amp;{\text{if }}a \equiv\ 0 {\pmod{p}}
+   \end{cases}}\)</p>
+  </li>
+  <li>
+    <p>Legenres’s original definition was by means of explicit formula<br />
+$\left(\frac{a}{p}\right)\equiv a^{\frac{p-1}{2}} \pmod{p} \ and \ \left(\frac{a}{p}\right)\in{-1,0,1}.$</p>
+  </li>
+  <li>
+    <p>The Legendre symbol is periodic in its first (or top) argument: if\ $a \equiv b \pmod{p}$, then<br />
+$\displaystyle \left(\frac{a}{p}\right)=\left(\frac{b}{p}\right).$</p>
+  </li>
+  <li>
+    <p>The Legendre symbol is a completely multiplicative function of its top argument:<br />
+$\displaystyle \left(\frac{ab}{p} \right) = \left(\frac{a}{p} \right) \left(\frac{b}{p} \right)$</p>
+  </li>
+  <li>
+    <p>The Fibonacci numbers $1,1,2,3,5,8,13,21,34,55,…$are defined by the recurrence $F_1 = F_2 = 1,F_{n+1} = F_n + F_{n-1}.$ If $p$ is a prime number then  <br />
+$\displaystyle F_{p-\left(\frac{p}{5}\right)} \equiv 0 {\pmod{p}}, \;\;F_p \equiv \left(\frac{p}{5}\right) {\pmod{p}}.$</p>
+
+    <p>For example,<br />
+$\displaystyle\left(\frac{2}{5}\right)=-1,\;\;\;F_3=2,\;\;\;F_2=1,$<br />
+$\displaystyle\left(\frac{3}{5}\right)=-1,\;\;\; F_4=3,\;\;\;F_3=2,$</p>
+
+    <p>$\displaystyle\left(\frac{5}{5}\right)=\;\;\;0,\;\;\; F_5=5,$</p>
+
+    <p>$\displaystyle\left(\frac{7}{5}\right)=-1,\;\; F_8=21,\;\;F_7=13,$</p>
+
+    <p>$\displaystyle\left(\frac{11}{5}\right)=\;\;1,\;\; F_{10}=55,\;\;F_{11}=89,$</p>
+  </li>
+  <li>$\displaystyle \left(\frac{p}{5}\right)={\text{infinite concatenation of the sequence}}\left(1,-1,-1,1,0\right) {\text{from }}p \geq 1$</li>
+  <li>
+    <p>If $n$ = $k^2$ is perfect square then $\left(\frac{n}{p}\right)=1$ for every odd prime except $\left(\frac{n}{k}\right)=0$ if k is an odd prime.</p>
+
+    <p>### Miscellaneous</p>
+  </li>
+  <li>$\displaystyle a+b = a \oplus b +2(a \&amp; b)$.</li>
+  <li>$\displaystyle a + b = a \mid b + a \&amp; b$</li>
+  <li>$\displaystyle a \oplus b = a\mid b - a \&amp; b$</li>
+  <li>$k_{th}$ bit is set in $x$ iff $x \mod 2^{k - 1}\geq 2^k$. It comes handy when you need to look at the bits of the numbers which are pair sums or subset sums etc.</li>
+  <li>$k_{th}$ bit is set in $x$ iff $x \mod 2^{k - 1} - x \mod 2^k \neq\ 0$ ($ = 2^k$ to be exact). It comes handy when you need to look at the bits of the numbers which are pair sums or subset sums etc.</li>
+  <li>$n \mod 2^i = n \&amp; (2^i - 1)$</li>
+  <li>$1\oplus 2 \oplus 3 \oplus \cdots \oplus (4k - 1) = 0$ for any $k \ge 0$</li>
+  <li><strong>Erdos Gallai Theorem:</strong> 
+The degree sequence of an undirected graph is the non-increasing sequence of its vertex degrees<br />
+A sequence of non-negative integers $d_1 \geq d_2 \geq \cdots \geq d_n$ can be represented as the degree sequence of finite simple graph on $n$ vertices if and only if $d_1 + d_2 + \cdots + d_n$ is even and 
+\(\sum_{i = 1}^k {d_i \leq k(k - 1)} + \sum_{i = k + 1}^n \min(d_i, k)\)
+holds for every $k$ in $1 \leq k \leq n$.</li>
+</ol>
+
+:ET

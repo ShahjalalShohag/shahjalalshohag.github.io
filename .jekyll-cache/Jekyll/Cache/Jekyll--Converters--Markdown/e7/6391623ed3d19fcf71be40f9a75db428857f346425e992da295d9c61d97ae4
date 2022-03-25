@@ -1,0 +1,110 @@
+I"�)<p>It was August 14, 2021.</p>
+
+<p>It was the day. My last ICPC, Dhaka Regional 2020, was about to happen.</p>
+
+<p>The contest was held online because of the Covid situation that was going on at that time. So everyone was at home and everything happened through Zoom. Also, the contest duration was 4h. My team members are me (CSE 16), Fahim (SWE 17) and Rony (CSE 18).</p>
+
+<p>Our team name is Barlekamp Massey because this is my favorite algorithm ever. You can google it and read more about it. It basically finds you the shortest linear recurrence that is satisfied in a sequence of integers if you feed it the first few values of the sequence! Just like Magic!</p>
+
+<p>[The story is long, you can skip to the 2h timestamp if you are in a hurry or feel bored.]</p>
+
+<p><img src="/assets/images/team.jpg" alt="team" /></p>
+
+<h4 id="00-mins">00 mins</h4>
+<p>Contest started. The first thing to do in any ICPC contest is to find the giveaway, so we found that, submitted it in 2 mins, and got AC. The problem was very bad if I am being honest because, in that problem, they wrote a poem and wanted us to print the number of words in the poem! In a CP contest! And that too in a regional contest! Saying it a giveaway doesn’t make the contest better. What a bad problem to start a contest! But I wasn’t surprised because it’s too normal here!</p>
+
+<h4 id="10-mins">10 mins</h4>
+<p>Then I moved to problem D. Within a few mins, I remembered that I have actually solved that problem before on CodeChef! But I forgot how to solve the problem because I solved it using some strong heuristics which would have got TLE but I somehow managed to pass the CodeChef problem (funnily enough, I became red at Codechef by solving that problem, kind of illegally!). But this time I forgot how I came up with those heuristics. So I left the problem not to waste my time trying out wrong solutions!</p>
+
+<h4 id="40-mins">40 mins</h4>
+<p>Rony was trying to solve problem I which was a straightforward DP+Segment Tree problem and he found the solution quickly and implemented it, submitted it, and voila, he got WA! He then started to debug his code. Although I wasn’t surprised because Rony makes silly mistakes frequently!</p>
+
+<h4 id="50-mins">50 mins</h4>
+<p>I moved to problem F which was also a pretty easy problem, so I implemented the solution and submitted it with great confidence that the judge would reward me with that hot AC, but it slapped me with that ugly WA! I tried to debug but couldn’t find any bug and this normally doesn’t happen to me.</p>
+
+<h4 id="1h-20m">1h 20m</h4>
+<p>Fahim was reading other problems as we have the rule to read all the problems within the first 2h of the contest. He then moved to problem C, the most famous problem from the set! The statement was really big. Not a problem. But was unnecessarily big which is a problem. Whatever, it was a plain Dijkstra problem after all. We felt bad because we didn’t read the problem before. Fahim instantly implemented it and got AC. So after 1h, we had 2 AC which is very bad in a regional contest. I didn’t check the standings because we normally don’t check standings before 2h. We only check the dashboard to check which problems are getting solved.</p>
+
+<h4 id="1h-30m">1h 30m</h4>
+<p>Fahim then moved to problem G which is a geometry problem and Fahim normally covers up the geo problems on our behalf. I moved to problem D, which I solved before on CodeChef, and tried to solve it normally. But couldn’t find any solution, so decided to code some normal heuristics. My plan was to write a normal heuristic and if it fails then I would code a stronger heuristic. So submitted the solution and got TLE, as expected.</p>
+
+<h4 id="1h-50m">1h 50m</h4>
+<p>Fahim wrote a solution to problem G but unsurprisingly got WA. And Rony was trying out other problems and also he had no idea why his solution to problem I was getting WA.</p>
+
+<h4 id="2h">2h</h4>
+<p>We solved 2 problems so far! I checked the standings and with no surprise, we were out of the top 30 teams! I think I didn’t have this much bad ranking in a Bangladeshi contest in the last 2 years before this regional contest. What a day! But we went on trying to solve problems. That’s what we were for in that contest.</p>
+
+<p>I think everyone who was rooting for us got really disappointed. Sorry for that.</p>
+
+<h4 id="2h-28m">2h 28m</h4>
+<p>I tried a little bit good heuristic (not that string tbh) in problem D. And holy hell! It got AC!</p>
+
+<h4 id="2h-42m">2h 42m</h4>
+<p>I moved to problem F again. I had no idea what the bug was. But for some reason, I changed every datatype from long long to __int128 because you know, I don’t trust the setters! And ooooooooooooh my god, it also got AC!</p>
+
+<h4 id="2h-48m">2h 48m</h4>
+<p>Rony suddenly uttered a slang out of excitement because he found something wrong in his code for problem I. He then did something and submitted and mffffffffff we got our 5th AC! After the contest, I asked what breathtaking change he did to the code that it got AC. And yeah, Rony had as usual Rony-like bug and the bug was that he misplaced n and m! He just changed one n to m. That’s it. That’s the bug.</p>
+
+<p>These 3 AC in a span of 30 mins boosted our motivation a lot.</p>
+
+<h4 id="2h-55m">2h 55m</h4>
+<p>Fahim was trying to solve that geo problem. It wasn’t geo tbh but a more ML-like problem about linear regression and stuff! We both tried to solve it and debug the code but all in vain.</p>
+
+<h4 id="3h">3h</h4>
+<p>We solved 5 problems and our rank was 6th at that time. Not bad and not good enough either. Our plan was to solve at least 7 problems to be the Champion so we acted accordingly. Rony was trying to solve problem B, a backtracking problem, and I and Fahim were trying to solve G.</p>
+
+<h4 id="3h-22m">3h 22m</h4>
+<p>Fahim managed to get his well-deserved AC in problem G by writing lots of binary searches for that problem! I moved to problem H, an XOR problem, my favorite stuff. Fahim and Rony went on trying to solve problem B, the backtracking one. We discussed some heuristics and tried those out but all in vain.</p>
+
+<h4 id="3h-55m">3h 55m</h4>
+<p>Time was running out. I coded a somewhat wrong solution in problem H. I was like I have to solve this problem. Excitements were running through my veins. Nothing else mattered at that point. This was my last ICPC and I had to do something. I had waited for 4 years for that moment. I had to make it through. My hands were shaking. I submitted the solution and I felt that I was trembling while submitting the code. The solution was being judged. I was refreshing the window constantly. Why does it take so much time when it comes to something important. Wtf man. Give me my verdict. And after a min or so I got my long-cherished verdict. And………. I got WA!</p>
+
+<h4 id="4h">4h</h4>
+<p>We solved 6 problems in total. Contest ended. My last ICPC contest had its end!</p>
+
+<p>The standing was frozen. So I talked with other teams and found out that 3 others teams also solved 6 problems and no one did more than that. But we had lots of penalties so I was quite sure that we would be the 4th team.</p>
+
+<p>I have checked the solution to problem H, I thought the solution might be good, but it was not at all. Whatever.</p>
+
+<p>After a few days, the result got published and indeed we were 4th, but in terms of distinct universities, we were 3rd. Still not enough because in 2019, we stood 2nd (university rank) but we didn’t qualify that time.</p>
+
+<p>So I lost all my hopes. I was sure that I wouldn’t make it to the World Finals. But I had my fun while doing CP, so I knew that it wouldn’t matter that much. I normally run after something keeping in mind that the journey itself is worthy enough and if I make it to the goal then awesome, otherwise as always, we must accept our path, we must accept our present and keep moving to make it a better one.</p>
+
+<p>So I accepted everything. The final result for the qualifying teams was supposed to come out after a few months. But I lost all hope and went on doing my usual stuff: that is to do CP and to find a job for a living.</p>
+
+<p>So I managed to find my first job at Alpine DeFi, an awesome startup with a team of super-intelligent people. I am super happy right now to be here.</p>
+
+<p>And it was February 11.</p>
+
+<p>Nirjhor(Alpha_Q) knocked me on discord saying “congrats!”. The summary of the convo was something like this.</p>
+
+<ul>
+  <li>Nirjhor: Congrats</li>
+  <li>Me: Thanks!</li>
+  <li>Nirjhor: Did you guys guess that it will come as a surprise? That 3 lsteams will qualify?</li>
+  <li>Me: What do you mean by “3 teams will qualify”?</li>
+  <li>Nirjhor: From Dhaka site. WTF.</li>
+  <li>Me: TF. I didn’t know.</li>
+  <li>Nirjhor: WTF did you think I was congratulating you for XD?</li>
+  <li>Me: Regarding my job, I guess!</li>
+  <li>Nirjhor: Okay :3. You guys qualified for World Finals!</li>
+  <li>Me: WTFFFFFFFFFFFFFFFFFFFFFFFFFF</li>
+</ul>
+
+<p>This was the moment. You know, THE MOMENT. The moment that you wish you would wake up to every day. The moment that you can add to your “top 10 moments that you weren’t ready for, number 3 will surprise you!”. The moment that you can say is better than s3x without even having s3x at all. The moment that makes you want to live. That makes you cry. That tells you that you can do anything. That makes you forget the suffering of the world and makes you dance.</p>
+
+<p>Then I rechecked the news that Nirjhor sent me through and it was from a verified source. So yeah, we are going to the World Finals. It will happen in November 2022.</p>
+
+<p>Now I am happy that we didn’t give up the contest when we were out of top 30 after the 2h of the contest. It was worth trying to come back after all. Thats the fun part of the contest tbh.</p>
+
+<p>Maybe I won’t be able to practice that much but my teammates are going strong. We, as a team, will try our best.</p>
+
+<p>Wish us good luck!</p>
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fnirvana%2F&amp;width=450&amp;layout=standard&amp;action=like&amp;size=small&amp;share=true&amp;height=35&amp;appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v13.0" nonce="1ZazkuuL"></script>
+
+<div class="fb-comments" data-href="https://blog.shahjalalshohag.com/comeback/" data-width="" data-numposts="5"></div>
+:ET
