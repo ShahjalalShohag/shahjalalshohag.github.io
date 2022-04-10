@@ -10,8 +10,9 @@ Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjala
 There is a great announcement! From now on, you can use promo codes and get a 200 BDT discount, and you can refer others to use your promo code and can get a reward of 200 BDT!
 
 So basically
-- If you took any course, then you will get a promo code. And when someone uses your promo code to enroll in THAT course, then the guy will get a 200 BDT discount and you will also receive 200 BDT.
-- If you are someone who is thinking of enrolling in a new course, then you can get a promo code from someone who already took THAT course.
+- If you took any course, then you will get a promo code. And when someone uses your promo code to enroll in some course, then the guy will get a 200 BDT discount and you will also receive 200 BDT.
+- If you are from Phase X, then you can refer someone to Phase Y iff Y <= X. That is you can refer someone to a phase lower or equal to your current phase! Also, you can't refer yourself, obviously!
+- If you are someone who is thinking of enrolling in a new course, then you can get a promo code from someone who already took a course.
 - You can give promo codes to multiple people.
 - Anyone can use at most one promo code for each course.
 

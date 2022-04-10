@@ -14,7 +14,7 @@ But there is a good news!
 
 ### Academy Gold Pass
 From now on, you will receive an appreciation from YouKn0wWho for being a dedicated and awesome programmer (if you really are). You will get the following incentives:
-- **Get 50% discount in your next course.**
+- **Get 20% discount in your next course.**
 - 30 minutes of 1:1 video meeting with me.
 - An appreciation letter and an official shoutout from my Facebook page.
 - A grand treat from me if you can somehow meet up with me in real life!
@@ -26,9 +26,7 @@ I would like to call this appreciation the Academy Gold Pass.
 - You can receive appreciations for each phase! 
 - Anyone can receive the rewards if they take the course anytime (live or not). 
 - You should complete the criteria within the first 4 months of taking the course and demand your well deserved appreciation!
-
-![appreciation](/assets/images/appreciation.png)
-
+  
 ### Criteria
 The following criteria must be fulfilled to get an appreciation (if you don't fulfill them then why tf you took the course in the first place!):
 
