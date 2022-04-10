@@ -8,7 +8,7 @@ usemathjax: true
 Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjalalshohag.com/)
 
 ### Can I get discounts on the courses?
-If you are a school or college student, then **you will get HUGE discounts** (check the website). Otherwise, if you are an old academy member, then **you can get up to 50% discounts on your next course by solving more problems in your current course!** Check [Academy Gold Pass](https://blog.shahjalalshohag.com/appreciation/) to learn more.
+If you are a school or college student, then **you will get INSANE amount of discounts** (**70% discount in some cases!**, check the website). Otherwise, if you are an old academy member, then **you can get 20% discounts on your next course by solving more problems in your current course!** Check [Academy Gold Pass](https://blog.shahjalalshohag.com/appreciation/) to learn more.
 
 ### Do you have Promo Codes?
 Yes. Because you deserve some discounts!
@@ -37,7 +37,7 @@ Yes, **I sit with all academy members biweekly** to understand how everyone is d
 ### Why am I giving huge discounts for school and college students?
 I mean these kids are only in school and college and trying to learn Programming at this early age! Isn't it itself pretty cool? So, to motivate them more I made this easier for them. That's it.
 
-If you have other questions, feel free to ask in the comments.
+If you have other questions, feel free to ask in the comments or knock me on Facebook or anywhere you like.
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fnirvana%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
