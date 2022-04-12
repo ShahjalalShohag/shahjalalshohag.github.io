@@ -7,7 +7,7 @@ usemathjax: true
 
 Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjalalshohag.com/)
 
-There is a great announcement! From now on, you can use promo codes and get a 200 BDT discount, and you can refer others to use your promo code and can get a reward of 200 BDT!
+There is a great announcement! From now on, you can use promo codes and get a 200 BDT discount (100 BDT for Phase 0), and you can refer others to use your promo code and can get a reward of 200 BDT!
 
 So basically
 - If you took any course, then you will get a promo code. And when someone uses your promo code to enroll in some course, then the guy will get a 200 BDT discount and you will also receive 200 BDT.
