@@ -7,6 +7,16 @@ usemathjax: true
 
 Academy Website: [https://academy.shahjalalshohag.com/](https://academy.shahjalalshohag.com/)
 
+### Can you be my personal trainer?
+If you get stuck in some problem, then, I, personally, will help you solve that problem anytime (sometimes using a direct video call!). If it takes lifetime for you to complete some course, then I will help you for lifetime! In general I take around 2h everyday to answer everyone's questions. Also, I sit with all the academy members biweekly to understand how everyone is doing. So by taking some course, you are having me as your Personal Trainer!
+
+### What is the thing that is great about this Academy?
+Interaction! 
+
+We will interact with each other daily to solve the problems that you face. You will be provided with all the resources and the problems that you need to solve but when you struggle to solve those problems or any other problems, then you can immediately knock me on discord and I or other students will help you almost instantly.
+
+We are more like a community and we are more than happy to have you here!
+
 ### Can I get discounts on the courses?
 If you are a school or college student, then **you will get INSANE amount of discounts** (**70% discount in some cases!**, check the website). Otherwise, if you are an old academy member, then **you can get 20% discounts on your next course by solving more problems in your current course!** Check [Academy Gold Pass](https://blog.shahjalalshohag.com/appreciation/) to learn more.
 
