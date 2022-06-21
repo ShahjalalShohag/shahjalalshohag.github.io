@@ -30,6 +30,10 @@ I would like to call this appreciation the Academy Gold Pass.
 ### Criteria
 The following criteria must be fulfilled to get an appreciation (if you don't fulfill them then why tf you took the course in the first place!):
 
+#### Phase 0
+- Solved all problems from all contests
+- Got at least 150 points in total (out of 350 points) over all quizzes.
+
 #### Phase 1
 - Solved at least 250 problems in total (out of 295 problems).
 - Solved at least 60 problems from class 1 (out of 70 problems).
