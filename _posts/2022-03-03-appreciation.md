@@ -74,4 +74,4 @@ The following criteria must be fulfilled to get an appreciation (if you don't fu
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="my6ulbt3"></script>
 
-<div class="fb-comments" data-href="https://shahjalalshohag.github.io/nirvana/" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://shahjalalshohag.github.io/death/" data-width="" data-numposts="5"></div>
