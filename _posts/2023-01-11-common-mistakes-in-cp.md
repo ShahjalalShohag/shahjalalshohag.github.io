@@ -11,7 +11,7 @@ I have compiled some of the mistakes that I made in my early Competitive Program
 
 So, if you are new to CP, stick with me as you might don't wanna repeat the mistakes that I made when I was a beginner.
 
-Blog Link: [smash me](https://codeforces.com/blog/entry/111217)
+Blog Link: [smash me](https://codeforces.com/blog/entry/111217) 
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fnirvana%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
