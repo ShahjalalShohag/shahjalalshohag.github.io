@@ -2,19 +2,18 @@
 name: "Inception"
 title: "Inception"
 description: "A Personal Blog by Shahjalal Shohag"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
 url: "shahjalalshohag.github.io"
 baseurl: ""
-google_analytics: 'UA-207897533-1'
-disqus: 'shahjalalshohag'
-mailchimp-list: 'https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d' # will change
+google_analytics: "UA-207897533-1"
+disqus: "shahjalalshohag"
+mailchimp-list: "https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d" # will change
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-
 
 # Plugins
 plugins:
@@ -30,7 +29,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: "/category/:name/"
 
 # Pagination
 paginate: 6
@@ -47,7 +46,7 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
+adsense: "disabled"
 adsense-data-ad-client: "ca-pub-1301959884890461"
 adsense-data-ad-slot: "6611552769"
 
