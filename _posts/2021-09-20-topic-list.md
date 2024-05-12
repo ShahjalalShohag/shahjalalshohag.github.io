@@ -5,28 +5,41 @@ tags: [CP, monstrous]
 featured: true
 usemathjax: true
 ---
+
+### UPDATE May 12, 2024
+
+**I have made the topic list so much better. You can find the updated version [here](https://youkn0wwho.academy/topic-list).**
+
+**Please ignore the following list. It's outdated. Follow the link above.**
+
+#### Introduction
+
 This post took $4$ years to make. And this is the most significant thing that I have ever shared in my whole life.
 
 #### Story
-Hi, I have been doing CP for like $4$ years and from the very beginning what I have been feeling is a need for a comprehensive topic list that will contain all sorts of topics from easy to advanced with corresponding tutorials, problem lists and templates so that I wouldn't have to look at different sites, from here to there. So what do you do when you think something is missing from the world? Yeah, you create that thing! So here I am, sharing the ultimate topic list that you will need in CP. 
 
-When I say that it took me $4$ years to make it, I genuinely mean it. I have been collecting them from the inception of my CP journey and yesterday I thought that it got its almost complete shape. You may not imagine the sheer excitement hidden under each of the characters of this post.  
+Hi, I have been doing CP for like $4$ years and from the very beginning what I have been feeling is a need for a comprehensive topic list that will contain all sorts of topics from easy to advanced with corresponding tutorials, problem lists and templates so that I wouldn't have to look at different sites, from here to there. So what do you do when you think something is missing from the world? Yeah, you create that thing! So here I am, sharing the ultimate topic list that you will need in CP.
+
+When I say that it took me $4$ years to make it, I genuinely mean it. I have been collecting them from the inception of my CP journey and yesterday I thought that it got its almost complete shape. You may not imagine the sheer excitement hidden under each of the characters of this post.
 
 #### Payment
+
 You can pay me just by upvoting [this blog](https://codeforces.com/blog/entry/95106) and by being a better programmer and human than what you are right now.
 
 #### About the Topic List
-I have added a few tutorials for each topic. You can also find more of them by just using your best companion — Google. 
+
+I have added a few tutorials for each topic. You can also find more of them by just using your best companion — Google.
 
 Added few problems for each topic. But you may notice that some of the topics don't have any problem attached. That's because under the attached tutorial section you will find lots of problems with that topic. If you want more problems, then you can do it just by using Google.
 
 I have attached my template for each topic. You may not call it a template because some of them don't support the generalized use of the topic. But you can use them easily if you understand the topic and solve problems using that template.
 
-Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows: 
+Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows:
+
 - $1$ &mdash; If your rating is $1600 - 1899$
 - $2$ &mdash; If your rating is $1900 - 2399$
-- $3$ &mdash; If your rating is $2400+$. 
-  
+- $3$ &mdash; If your rating is $2400+$.
+
 If you are a beginner then just learn basic topics and solve problems.
 
 #### Topic List
@@ -3853,8 +3866,6 @@ If you are a beginner then just learn basic topics and solve problems.
 </body>
 </details>
 
-
-
 <details> 
 <summary>Category: Important Links</summary>
 <body>
@@ -3914,10 +3925,12 @@ If you are a beginner then just learn basic topics and solve problems.
 </details>
 
 #### Contribute
+
 You can comment the topic names that you think are missing right now and I am pretty sure some links are broken, do point those out if you find some.
 
 #### Conclusion
-The whole purpose of this project is to help you with this astounding journey of you trying to be better, trying to achieve the best of what you can imagine. Hope that my efforts won't go in vain. I am waiting to see you at the top of the building that you made by the bricks of your expectations. I am waiting to see you smile and to be happy. Don't forget to enjoy the journey and have fun while riding the boat. 
+
+The whole purpose of this project is to help you with this astounding journey of you trying to be better, trying to achieve the best of what you can imagine. Hope that my efforts won't go in vain. I am waiting to see you at the top of the building that you made by the bricks of your expectations. I am waiting to see you smile and to be happy. Don't forget to enjoy the journey and have fun while riding the boat.
 
 Best wishes, my friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart"></a>.
 
