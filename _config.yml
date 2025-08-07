@@ -8,7 +8,7 @@ url: "shahjalalshohag.github.io"
 baseurl: ""
 google_analytics: "UA-207897533-1"
 disqus: "shahjalalshohag"
-mailchimp-list: "https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d" # will change
+# mailchimp-list: "https://gmail.us5.list-manage.com/subscribe?u=32bba2b1a50fd39cfc8306b97&id=4ceea0737d" # will change
 include: ["_pages"]
 permalink: /:title/
 

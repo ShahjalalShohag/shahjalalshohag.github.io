@@ -1,62 +1,56 @@
----
-layout: post
-title: "The Ultimate Topic List(with Tutorials, Problems, and Templates)"
-tags: [CP, monstrous]
-featured: true
-usemathjax: true
----
-
-# 🚨 IMPORTANT UPDATE - May 12, 2024 🚨
+I"�Z<h1 id="-important-update---may-12-2024-">🚨 IMPORTANT UPDATE - May 12, 2024 🚨</h1>
 
 <div style="background-color: #ff4444; color: white; padding: 20px; border: 5px solid #cc0000; border-radius: 10px; margin: 20px 0; text-align: center; font-size: 18px; font-weight: bold; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
   <h2 style="color: white; margin-top: 0; font-size: 24px;">⚠️ THIS LIST IS OUTDATED ⚠️</h2>
   <p style="margin: 15px 0; font-size: 20px;">I have made the topic list so much better!</p>
-  <p style="margin: 15px 0; font-size: 18px;">🔗 <a href="https://youkn0wwho.academy/topic-list" target="_blank" style="color: #00ff00; text-decoration: underline; font-weight: bold;">Find the UPDATED version here</a> 🔗</p>
+  <p style="margin: 15px 0; font-size: 18px;">🔗 <a href="https://youkn0wwho.academy/topic-list" target="_blank" style="color: #ffff99; text-decoration: underline; font-weight: bold;">Find the UPDATED version here</a> 🔗</p>
   <p style="margin-bottom: 0; font-size: 16px; background-color: #cc0000; padding: 10px; border-radius: 5px;">❌ Please ignore the following list - it's outdated! ❌</p>
 </div>
 
----
+<hr />
 
-## ⬆️ USE THE LINK ABOVE FOR THE LATEST VERSION ⬆️
+<h2 id="️-use-the-link-above-for-the-latest-version-️">⬆️ USE THE LINK ABOVE FOR THE LATEST VERSION ⬆️</h2>
 
----
+<hr />
 
-#### Introduction
+<h4 id="introduction">Introduction</h4>
 
-This post took $4$ years to make. And this is the most significant thing that I have ever shared in my whole life.
+<p>This post took $4$ years to make. And this is the most significant thing that I have ever shared in my whole life.</p>
 
-#### Story
+<h4 id="story">Story</h4>
 
-Hi, I have been doing CP for like $4$ years and from the very beginning what I have been feeling is a need for a comprehensive topic list that will contain all sorts of topics from easy to advanced with corresponding tutorials, problem lists and templates so that I wouldn't have to look at different sites, from here to there. So what do you do when you think something is missing from the world? Yeah, you create that thing! So here I am, sharing the ultimate topic list that you will need in CP.
+<p>Hi, I have been doing CP for like $4$ years and from the very beginning what I have been feeling is a need for a comprehensive topic list that will contain all sorts of topics from easy to advanced with corresponding tutorials, problem lists and templates so that I wouldn’t have to look at different sites, from here to there. So what do you do when you think something is missing from the world? Yeah, you create that thing! So here I am, sharing the ultimate topic list that you will need in CP.</p>
 
-When I say that it took me $4$ years to make it, I genuinely mean it. I have been collecting them from the inception of my CP journey and yesterday I thought that it got its almost complete shape. You may not imagine the sheer excitement hidden under each of the characters of this post.
+<p>When I say that it took me $4$ years to make it, I genuinely mean it. I have been collecting them from the inception of my CP journey and yesterday I thought that it got its almost complete shape. You may not imagine the sheer excitement hidden under each of the characters of this post.</p>
 
-#### Payment
+<h4 id="payment">Payment</h4>
 
-You can pay me just by upvoting [this blog](https://codeforces.com/blog/entry/95106) and by being a better programmer and human than what you are right now.
+<p>You can pay me just by upvoting <a href="https://codeforces.com/blog/entry/95106">this blog</a> and by being a better programmer and human than what you are right now.</p>
 
-#### About the Topic List
+<h4 id="about-the-topic-list">About the Topic List</h4>
 
-I have added a few tutorials for each topic. You can also find more of them by just using your best companion — Google.
+<p>I have added a few tutorials for each topic. You can also find more of them by just using your best companion — Google.</p>
 
-Added few problems for each topic. But you may notice that some of the topics don't have any problem attached. That's because under the attached tutorial section you will find lots of problems with that topic. If you want more problems, then you can do it just by using Google.
+<p>Added few problems for each topic. But you may notice that some of the topics don’t have any problem attached. That’s because under the attached tutorial section you will find lots of problems with that topic. If you want more problems, then you can do it just by using Google.</p>
 
-I have attached my template for each topic. You may not call it a template because some of them don't support the generalized use of the topic. But you can use them easily if you understand the topic and solve problems using that template.
+<p>I have attached my template for each topic. You may not call it a template because some of them don’t support the generalized use of the topic. But you can use them easily if you understand the topic and solve problems using that template.</p>
 
-Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows:
+<p>Lastly, I tried to state the difficulty of each topic by numbers from $1$ to $3$ so that people can understand what are the best topics for them. The distribution is as follows:</p>
 
-- $1$ &mdash; If your rating is $1600 - 1899$
-- $2$ &mdash; If your rating is $1900 - 2399$
-- $3$ &mdash; If your rating is $2400+$.
+<ul>
+  <li>$1$ — If your rating is $1600 - 1899$</li>
+  <li>$2$ — If your rating is $1900 - 2399$</li>
+  <li>$3$ — If your rating is $2400+$.</li>
+</ul>
 
-If you are a beginner then just learn basic topics and solve problems.
+<p>If you are a beginner then just learn basic topics and solve problems.</p>
 
 <div style="background-color: #ffaa00; color: #000; padding: 15px; border: 3px solid #ff8800; border-radius: 8px; margin: 30px 0; text-align: center; font-size: 16px; font-weight: bold;">
-  🚨 REMINDER: This topic list is OUTDATED! 🚨<br>
+  🚨 REMINDER: This topic list is OUTDATED! 🚨<br />
   📍 <a href="https://youkn0wwho.academy/topic-list" style="color: #cc0000; text-decoration: underline; font-weight: bold;">Click here for the updated version</a> 📍
 </div>
 
-#### Topic List (OUTDATED - See Updated Version Above)
+<h4 id="topic-list-outdated---see-updated-version-above">Topic List (OUTDATED - See Updated Version Above)</h4>
 
 <head>
     <style>
@@ -1487,7 +1481,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <tr>
 <td>167</td>
 <td>Dynamic DAG Reachability</td>
-<td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6jiwt-UAAAAJ&citation_for_view=6jiwt-UAAAAJ:Tyk-4Ss8FVUC"> 1 </a></td>
+<td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6jiwt-UAAAAJ&amp;citation_for_view=6jiwt-UAAAAJ:Tyk-4Ss8FVUC"> 1 </a></td>
 <td><a href="https://www.spoj.com/problems/GHOSTS/"> 1 </a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Graph%20Theory/DAG%20Reachability%20Dynamic.cpp"> code </a></td>
 <td>3</td>
@@ -2032,7 +2026,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>233</td>
 <td>Lower bound on BIT</td>
 <td><a href="https://codeforces.com/blog/entry/61364"> 1 </a></td>
-<td><a href="https://acm.timus.ru/problem.aspx?space=1&num=1896"> 1 </a></td>
+<td><a href="https://acm.timus.ru/problem.aspx?space=1&amp;num=1896"> 1 </a></td>
 <td></td>
 <td>1</td>
 </tr>
@@ -2304,7 +2298,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>267</td>
 <td>Rope</td>
 <td><a href="https://codeforces.com/blog/entry/10355"> 1 </a></td>
-<td><a href="https://informatics.msk.ru/mod/statements/view3.php?id=1974&chapterid=2791#1"> 1 </a></td>
+<td><a href="https://informatics.msk.ru/mod/statements/view3.php?id=1974&amp;chapterid=2791#1"> 1 </a></td>
 <td></td>
 <td>1</td>
 </tr>
@@ -2336,7 +2330,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>271</td>
 <td>Ordered Set</td>
 <td><a href="https://codeforces.com/blog/entry/11080"> 1 </a><a href="https://codeforces.com/blog/entry/11275"> 2 </a></td>
-<td><a href="https://acm.timus.ru/problem.aspx?space=1&num=1414"> 1 </a></td>
+<td><a href="https://acm.timus.ru/problem.aspx?space=1&amp;num=1414"> 1 </a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Data%20Structures/Ordered%20Set.cpp"> code </a></td>
 <td>1</td>
 </tr>
@@ -2432,7 +2426,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>283</td>
 <td>Link Cut Cactus</td>
 <td><a href="https://blog.csdn.net/VFleaKing/article/details/80748052"> 1 </a></td>
-<td><a href = "https://codeforces.com/contest/1599/problem/I">1</a></td>
+<td><a href="https://codeforces.com/contest/1599/problem/I">1</a></td>
 <td></td>
 <td>3</td>
 </tr>
@@ -2584,7 +2578,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>300</td>
 <td>Palindromic Tree</td>
 <td><a href="http://adilet.org/blog/palindromic-tree/"> 1 </a></td>
-<td><a href="https://acm.timus.ru/problem.aspx?space=1&num=2058"> 1 </a></td>
+<td><a href="https://acm.timus.ru/problem.aspx?space=1&amp;num=2058"> 1 </a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Strings/Palindromic%20Tree.cpp"> code </a></td>
 <td>2</td>
 </tr>
@@ -2671,7 +2665,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <tr>
 <td>311</td>
 <td> LCS on RLE compressed string</td>
-<td><a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2354&context=cstech"> 1 </a></td>
+<td><a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2354&amp;context=cstech"> 1 </a></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -2784,7 +2778,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>323</td>
 <td>SOS DP</td>
 <td><a href="https://codeforces.com/blog/entry/45223"> 1 </a></td>
-<td><a href="https://www.hackerearth.com/problem/algorithm/special-pairs-7/?utm_source=header&utm_medium=search&utm_campaign=he-search"> 1 </a></td>
+<td><a href="https://www.hackerearth.com/problem/algorithm/special-pairs-7/?utm_source=header&amp;utm_medium=search&amp;utm_campaign=he-search"> 1 </a></td>
 <td><a href="https://github.com/ShahjalalShohag/code-library/blob/master/Dynamic%20Programming%20Optimizations/SOS%20convolutions.cpp"> code </a></td>
 <td>1</td>
 </tr>
@@ -2832,7 +2826,7 @@ If you are a beginner then just learn basic topics and solve problems.
 <td>329</td>
 <td>Aliens Trick</td>
 <td><a href="https://mamnoonsiam.github.io/posts/attack-on-aliens.html"> 1 </a></td>
-<td><a href="http://www.usaco.org/index.php?page=viewproblem2&cpid=697"> 1 </a></td>
+<td><a href="http://www.usaco.org/index.php?page=viewproblem2&amp;cpid=697"> 1 </a></td>
 <td></td>
 <td>2</td>
 </tr>
@@ -3938,19 +3932,20 @@ If you are a beginner then just learn basic topics and solve problems.
 </body>
 </details>
 
-#### Contribute
+<h4 id="contribute">Contribute</h4>
 
-You can comment the topic names that you think are missing right now and I am pretty sure some links are broken, do point those out if you find some.
+<p>You can comment the topic names that you think are missing right now and I am pretty sure some links are broken, do point those out if you find some.</p>
 
-#### Conclusion
+<h4 id="conclusion">Conclusion</h4>
 
-The whole purpose of this project is to help you with this astounding journey of you trying to be better, trying to achieve the best of what you can imagine. Hope that my efforts won't go in vain. I am waiting to see you at the top of the building that you made by the bricks of your expectations. I am waiting to see you smile and to be happy. Don't forget to enjoy the journey and have fun while riding the boat.
+<p>The whole purpose of this project is to help you with this astounding journey of you trying to be better, trying to achieve the best of what you can imagine. Hope that my efforts won’t go in vain. I am waiting to see you at the top of the building that you made by the bricks of your expectations. I am waiting to see you smile and to be happy. Don’t forget to enjoy the journey and have fun while riding the boat.</p>
 
-Best wishes, my friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart"></a>.
+<p>Best wishes, my friend <a href="https://emoji.gg/emoji/8771_blobheart"><img src="https://emoji.gg/assets/emoji/8771_blobheart.png" width="16px" height="16px" alt="blobheart" /></a>.</p>
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fblog%2Ftopic-list%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fshahjalalshohag.github.io%2Fblog%2Ftopic-list%2F&amp;width=450&amp;layout=standard&amp;action=like&amp;size=small&amp;share=true&amp;height=35&amp;appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="kJMkICev"></script>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v12.0" nonce="kJMkICev"></script>
 
 <div class="fb-comments" data-href="https://shahjalalshohag.github.io/blog/topic-list/" data-width="" data-numposts="5"></div>
+:ET
